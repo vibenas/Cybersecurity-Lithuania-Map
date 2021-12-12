@@ -105,3 +105,7 @@ If your organisation would like to be mentioned, please contact via message on h
 2.	Changes
     1.	Changed name: Arxan to digital.ai
 
+## Previous versions
+
+* https://www.linkedin.com/pulse/lt-lietuvos-kibernetinio-saugumo-industrijos-vilius-benetis/ (2019 07 04)
+* ![Cybersecurity Lithuania Map 2019 07 04](/maps/2019-07-04_Cybersecurity-Lithuania-map.jpg "Cybersecurity Lithuania Map 2019 07 04")
