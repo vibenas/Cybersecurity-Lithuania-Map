@@ -10,16 +10,16 @@ An Organisation is placed under their primary area, and under primary ownership,
 Organisations identifying themselves in cybersecurity area and with operations in Lithuania are listed.
 
 Areas covered:
-1.	Technology developers
+1.	Technology Developers
 2.	Distributors
 3.	Integrators / Consultancy
 4.	Educators & Research
-5.	Government of Lithuania capabilities
+5.	National Capabilities
 
 If your organisation would like to be mentioned, please contact via message on https://www.linkedin.com/in/viliusbenetis/ 
 
 
-##	1. Technology developers
+##	1. Technology Developers
 
 *	**Local ownership**
 
@@ -90,7 +90,7 @@ If your organisation would like to be mentioned, please contact via message on h
 13.	VU, https://rekvizitai.vz.lt/imone/vilniaus_universitetas/, https://www.vu.lt/ 
  
 
-## 5.	National capabilities:
+## 5.	National Capabilities:
 1.	Cyber Security and Information Technology Policy Group under NMoD, https://rekvizitai.vz.lt/imone/lietuvos_respublikos_krasto_apsaugos_ministerija/  https://kam.lt/en/structure_and_contacts/kontaktai_eng/649.html 
 2.	KVTC-CERT, https://rekvizitai.vz.lt/imone/infostruktura/, https://kvtc.lrv.lt/lt/veiklos-sritys/kvtc-cert 
 3.	LITNET CERT, https://rekvizitai.vz.lt/imone/kauno_technologijos_universitetas/, https://litnet.lt/ 
