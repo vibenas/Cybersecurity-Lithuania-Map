@@ -69,11 +69,12 @@ If your organisation would like to be mentioned, please contact via message on h
 10. NOD Baltic, https://rekvizitai.vz.lt/en/company/nod_baltic/, https://nodbaltic.com/
 11. Predicto, https://rekvizitai.vz.lt/en/company/predicto/, https://predicto.lt/
 12. Privacy Partners, https://rekvizitai.vz.lt/en/company/privacy_partners/, https://www.privacypartners.lt/
-13. WhiteBit, https://rekvizitai.vz.lt/en/company/whitebit/, https://whitebit.lt/
+13. Surfshark, https://surfshark.com/
+14. WhiteBit, https://rekvizitai.vz.lt/en/company/whitebit/, https://whitebit.lt/
 *	**Foreign Ownership**
 1.	Advantio, https://rekvizitai.vz.lt/en/company/advantio_lt/ , https://www.advantio.com/
 2.	Adwisery, https://rekvizitai.vz.lt/en/company/uab_best_business_solutions/, https://www.adwisery.eu/en/home/
-3.	Atea, https://rekvizitai.vz.lt/en/company/atea/ , https://www.atea.lt/
+3.	Atea, https://rekvizitai.vz.lt/en/company/atea/, https://www.atea.lt/
 4.	Cognizant, https://rekvizitai.vz.lt/en/company/cognizant/, https://www.cognizant.com/us/en/services/cybersecurity-services
 6.	HWG Cyber Security, https://rekvizitai.vz.lt/en/company/hwg_cyber_security/, https://www.hwg.it
 7.	NCC Group, https://rekvizitai.vz.lt/en/company/fortconsult/, https://www.nccgroup.com/
