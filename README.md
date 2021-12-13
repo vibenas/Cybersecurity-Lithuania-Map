@@ -59,18 +59,20 @@ If your organisation would like to be mentioned, please contact via message on h
 1.	Acrux Cyber Services, https://rekvizitai.vz.lt/en/company/svaros_bitutes/,  https://www.acruxcs.com/  
 2.	Avedus, https://rekvizitai.vz.lt/en/company/avedus/, https://avedus.lt/ 
 3.	Blue Bridge, https://rekvizitai.vz.lt/en/company/blue_bridge/, https://www.bluebridge.lt/ 
+4.	Critical Security, https://rekvizitai.vz.lt/en/company/critical_security/, https://www.critical.lt/  
 4.	Deftools, https://rekvizitai.vz.lt/en/company/uab_deftools/, https://www.deftools.com/ 
 5.	Devoro, https://rekvizitai.vz.lt/imone/devoro/, https://www.devoro.com/ 
 6.	DPS Solutions, https://rekvizitai.vz.lt/en/company/duomenu_apsaugos_ir_saugumo_sprendimai/,  https://dpssolutions.eu/ 
 7.	Emplos, https://rekvizitai.vz.lt/imone/emplos/, https://emplos.lt/ 
 8.  Esec, https://rekvizitai.vz.lt/imone/kibernetinis_saugumas/, https://tyrimai.esec.lt/
-9.  NOD Baltic, https://rekvizitai.vz.lt/en/company/nod_baltic/, https://nodbaltic.com/ 
+9.  Netspecto, https://rekvizitai.vz.lt/imone/netspecto/, https://www.netspecto.lt/
+10. NOD Baltic, https://rekvizitai.vz.lt/en/company/nod_baltic/, https://nodbaltic.com/ 
+11. Privacy Partners, https://rekvizitai.vz.lt/imone/privacy_partners/, https://www.privacypartners.lt/
 *	**Foreign Ownership**
 1.	Advantio, https://rekvizitai.vz.lt/en/company/advantio_lt/ , https://www.advantio.com/ 
 2.	Adwisery, https://rekvizitai.vz.lt/en/company/uab_best_business_solutions/, https://www.adwisery.eu/en/home/ 
 3.	Atea, https://rekvizitai.vz.lt/en/company/atea/ , https://www.atea.lt/ 
 4.	Cognizant, https://rekvizitai.vz.lt/imone/cognizant/, https://www.cognizant.com/us/en/services/cybersecurity-services 
-5.	Critical Security, https://rekvizitai.vz.lt/en/company/critical_security/, https://www.critical.lt/  
 6.	HWG Cyber Security, https://rekvizitai.vz.lt/imone/hwg_cyber_security/, https://www.hwg.it
 7.	NCC Group, https://rekvizitai.vz.lt/en/company/fortconsult/, https://www.nccgroup.com/ 
 8.	Proact, https://rekvizitai.vz.lt/en/company/proact_lietuva/, https://www.proact.eu/  
