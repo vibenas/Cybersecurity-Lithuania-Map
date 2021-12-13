@@ -25,6 +25,7 @@ If your organisation would like to be mentioned, please contact via message on h
 
 1.	DefSlate, https://rekvizitai.vz.lt/en/company/defslate_mb/, https://defslate.com/ 
 2.	DevSlate, https://rekvizitai.vz.lt/imone/devslate_group/, https://devslate.com/ 
+3.	idBlender, https://rekvizitai.vz.lt/imone/resolvido/, https://idblender.com/ 
 3.	Mysterium Network, https://www.mysterium.network/ 
 4.	Nord Security, https://rekvizitai.vz.lt/en/company/nord_security/, 
 5.	NRD Cyber Security, https://rekvizitai.vz.lt/imone/nrd_cs/, https://www.nrdcs.lt/ 
@@ -60,7 +61,9 @@ If your organisation would like to be mentioned, please contact via message on h
 4.	Deftools, https://rekvizitai.vz.lt/en/company/uab_deftools/, https://www.deftools.com/ 
 5.	Devoro, https://rekvizitai.vz.lt/imone/devoro/, https://www.devoro.com/ 
 6.	DPS Solutions, https://rekvizitai.vz.lt/en/company/duomenu_apsaugos_ir_saugumo_sprendimai/,  https://dpssolutions.eu/ 
-7.	NOD Baltic, https://rekvizitai.vz.lt/en/company/nod_baltic/, https://nodbaltic.com/ 
+7.	Emplos, https://rekvizitai.vz.lt/imone/emplos/, https://emplos.lt/ 
+8.  Esec, https://rekvizitai.vz.lt/imone/kibernetinis_saugumas/, https://tyrimai.esec.lt/
+9.  NOD Baltic, https://rekvizitai.vz.lt/en/company/nod_baltic/, https://nodbaltic.com/ 
 *	**Foreign Ownership**
 1.	Advantio, https://rekvizitai.vz.lt/en/company/advantio_lt/ , https://www.advantio.com/ 
 2.	Adwisery, https://rekvizitai.vz.lt/en/company/uab_best_business_solutions/, https://www.adwisery.eu/en/home/ 
