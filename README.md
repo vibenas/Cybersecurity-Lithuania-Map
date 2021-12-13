@@ -77,7 +77,6 @@ If your organisation would like to be mentioned, please contact via message on h
 3.	Atea, https://rekvizitai.vz.lt/en/company/atea/, https://www.atea.lt/
 4.	Cognizant, https://rekvizitai.vz.lt/en/company/cognizant/, https://www.cognizant.com/us/en/services/cybersecurity-services
 6.	HWG Cyber Security, https://rekvizitai.vz.lt/en/company/hwg_cyber_security/, https://www.hwg.it
-7.	NCC Group, https://rekvizitai.vz.lt/en/company/fortconsult/, https://www.nccgroup.com/
 8.	Proact, https://rekvizitai.vz.lt/en/company/proact_lietuva/, https://www.proact.eu/
 9.	Santa Monica Networks, https://rekvizitai.vz.lt/en/company/santa_monica_networks/, https://www.smn.lt/
 10.	Telia, https://rekvizitai.vz.lt/en/company/teo_lt/ , https://www.telia.lt/privatiems
@@ -110,7 +109,8 @@ If your organisation would like to be mentioned, please contact via message on h
 1.	Removed:
     1.	ESTEQ, https://rekvizitai.vz.lt/en/company/esteq, website is not opening
     2.	Voras Consulting – bankruptcy
-    3.	Dokobit – do not identify themselves with cyber security, https://rekvizitai.vz.lt/en/company/dokobit, https://www.dokobit.com/  
+    3.	Dokobit – do not identify themselves with cyber security, https://rekvizitai.vz.lt/en/company/dokobit, https://www.dokobit.com/
+    7.	NCC Group - 0 staff, seems to be stopped being operational, https://rekvizitai.vz.lt/en/company/fortconsult/, https://www.nccgroup.com/
 2.	Changes
     1.	Changed name: Arxan to digital.ai
 
