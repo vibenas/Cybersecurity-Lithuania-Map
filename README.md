@@ -39,7 +39,6 @@ If your organisation would like to be mentioned, please contact via message on h
 1.	CUJO AI, https://rekvizitai.vz.lt/en/company/cujo_baltic/, https://cujo.com/
 2.	Digital.ai, https://rekvizitai.vz.lt/en/company/arxan_technologies/, https://digital.ai/
 3.	Oracle, https://rekvizitai.vz.lt/en/company/oracle_east_central_europe_limited_filialas/, https://www.oracle.com
-4.	Simplex, https://rekvizitai.vz.lt/en/company/simplex_payment_services/, https://www.simplex.com/
 5.	VArmour, https://rekvizitai.vz.lt/en/company/varmour_lithuania/, https://www.varmour.com/
 
 
@@ -57,6 +56,7 @@ If your organisation would like to be mentioned, please contact via message on h
 
 *	**Local ownership**
 1.	Acrux Cyber Services, https://rekvizitai.vz.lt/en/company/svaros_bitutes/,  https://www.acruxcs.com/
+2.	Adwisery, https://rekvizitai.vz.lt/en/company/uab_best_business_solutions/, https://www.adwisery.eu/en/home/
 2.	Avedus, https://rekvizitai.vz.lt/en/company/avedus/, https://avedus.lt/
 3.	Blue Bridge, https://rekvizitai.vz.lt/en/company/blue_bridge/, https://www.bluebridge.lt/
 4.	Critical Security, https://rekvizitai.vz.lt/en/company/critical_security/, https://www.critical.lt/
@@ -73,7 +73,6 @@ If your organisation would like to be mentioned, please contact via message on h
 14. WhiteBit, https://rekvizitai.vz.lt/en/company/whitebit/, https://whitebit.lt/
 *	**Foreign Ownership**
 1.	Advantio, https://rekvizitai.vz.lt/en/company/advantio_lt/ , https://www.advantio.com/
-2.	Adwisery, https://rekvizitai.vz.lt/en/company/uab_best_business_solutions/, https://www.adwisery.eu/en/home/
 3.	Atea, https://rekvizitai.vz.lt/en/company/atea/, https://www.atea.lt/
 4.	Cognizant, https://rekvizitai.vz.lt/en/company/cognizant/, https://www.cognizant.com/us/en/services/cybersecurity-services
 6.	HWG Cyber Security, https://rekvizitai.vz.lt/en/company/hwg_cyber_security/, https://www.hwg.it
@@ -111,6 +110,7 @@ If your organisation would like to be mentioned, please contact via message on h
     2.	Voras Consulting – bankruptcy
     3.	Dokobit – do not identify themselves with cyber security, https://rekvizitai.vz.lt/en/company/dokobit, https://www.dokobit.com/
     7.	NCC Group - 0 staff, seems to be stopped being operational, https://rekvizitai.vz.lt/en/company/fortconsult/, https://www.nccgroup.com/
+    4.	Simplex - not cybersecurity anymore, https://rekvizitai.vz.lt/en/company/simplex_payment_services/, https://www.simplex.com/
 2.	Changes
     1.	Changed name: Arxan to digital.ai
 
