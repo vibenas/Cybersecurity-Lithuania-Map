@@ -29,9 +29,10 @@ If your organisation would like to be mentioned, please contact via message on h
 3.	Mysterium Network, https://www.mysterium.network/ 
 4.	Nord Security, https://rekvizitai.vz.lt/en/company/nord_security/, 
 5.	NRD Cyber Security, https://rekvizitai.vz.lt/imone/nrd_cs/, https://www.nrdcs.lt/ 
-6.	Ondato https://rekvizitai.vz.lt/en/company/lygiarangiai/, https://ondato.com/ 
+6.	Ondato, https://rekvizitai.vz.lt/en/company/lygiarangiai/, https://ondato.com/ 
 7.	Oxylabs, https://rekvizitai.vz.lt/en/company/oxysales/, https://oxylabs.io/ 
 8.	Passcamp, https://rekvizitai.vz.lt/en/company/passcamp/, https://www.passcamp.com/ 
+9.  Solisec, https://rekvizitai.vz.lt/imone/solisec/, https://solisec.com/
 
 *	**Foreign ownership**
 
@@ -39,7 +40,7 @@ If your organisation would like to be mentioned, please contact via message on h
 2.	Digital.ai, https://rekvizitai.vz.lt/en/company/arxan_technologies/, https://digital.ai/ 
 3.	Oracle, https://rekvizitai.vz.lt/en/company/oracle_east_central_europe_limited_filialas/, https://www.oracle.com 
 4.	Simplex, https://rekvizitai.vz.lt/en/company/simplex_payment_services/, https://www.simplex.com/ 
-5.	VArmour, https://rekvizitai.vz.lt/imone/varmour_lithuania/, https://www.varmour.com/ 
+5.	VArmour, https://rekvizitai.vz.lt/imone/varmour_lithuania/, https://www.varmour.com/
 
 
 ## 2.	Distributors
