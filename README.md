@@ -33,7 +33,8 @@ If your organisation would like to be mentioned, please contact via message on h
 7.	Oxylabs, https://rekvizitai.vz.lt/en/company/oxysales/, https://oxylabs.io/
 8.	Passcamp, https://rekvizitai.vz.lt/en/company/passcamp/, https://www.passcamp.com/
 9.  Solisec, https://rekvizitai.vz.lt/en/company/solisec/, https://solisec.com/
-
+13. Surfshark, https://rekvizitai.vz.lt/en/company/netflow/, https://surfshark.com/
+    
 *	**Foreign ownership**
 
 1.	CUJO AI, https://rekvizitai.vz.lt/en/company/cujo_baltic/, https://cujo.com/
@@ -52,13 +53,14 @@ If your organisation would like to be mentioned, please contact via message on h
 7.	Hermitage Solutions, https://rekvizitai.vz.lt/en/company/hermitage_solutions/, https://www.hermitage.lt/
 8.	Pedab, https://rekvizitai.vz.lt/en/company/pedab_lietuva/, https://www.pedab.com/
 
-## 3.	Integrators / Consultancy
+## 3.	Resellers / Integrators / Consultancy
 
 *	**Local ownership**
 1.	Acrux Cyber Services, https://rekvizitai.vz.lt/en/company/svaros_bitutes/,  https://www.acruxcs.com/
 2.	Adwisery, https://rekvizitai.vz.lt/en/company/uab_best_business_solutions/, https://www.adwisery.eu/en/home/
 2.	Avedus, https://rekvizitai.vz.lt/en/company/avedus/, https://avedus.lt/
-3.	Blue Bridge, https://rekvizitai.vz.lt/en/company/blue_bridge/, https://www.bluebridge.lt/
+3.  BGM, https://rekvizitai.vz.lt/en/company/b_g_m/, https://www.bgm.lt/
+4.	Blue Bridge, https://rekvizitai.vz.lt/en/company/blue_bridge/, https://www.bluebridge.lt/
 4.	Critical Security, https://rekvizitai.vz.lt/en/company/critical_security/, https://www.critical.lt/
 4.	Deftools, https://rekvizitai.vz.lt/en/company/uab_deftools/, https://www.deftools.com/
 5.	Devoro, https://rekvizitai.vz.lt/en/company/devoro/, https://www.devoro.com/
@@ -69,7 +71,6 @@ If your organisation would like to be mentioned, please contact via message on h
 10. NOD Baltic, https://rekvizitai.vz.lt/en/company/nod_baltic/, https://nodbaltic.com/
 11. Predicto, https://rekvizitai.vz.lt/en/company/predicto/, https://predicto.lt/
 12. Privacy Partners, https://rekvizitai.vz.lt/en/company/privacy_partners/, https://www.privacypartners.lt/
-13. Surfshark, https://surfshark.com/
 14. WhiteBit, https://rekvizitai.vz.lt/en/company/whitebit/, https://whitebit.lt/
 *	**Foreign Ownership**
 1.	Advantio, https://rekvizitai.vz.lt/en/company/advantio_lt/ , https://www.advantio.com/
@@ -78,10 +79,12 @@ If your organisation would like to be mentioned, please contact via message on h
 6.	HWG Cyber Security, https://rekvizitai.vz.lt/en/company/hwg_cyber_security/, https://www.hwg.it
 8.	Proact, https://rekvizitai.vz.lt/en/company/proact_lietuva/, https://www.proact.eu/
 9.	Santa Monica Networks, https://rekvizitai.vz.lt/en/company/santa_monica_networks/, https://www.smn.lt/
-10.	Telia, https://rekvizitai.vz.lt/en/company/teo_lt/ , https://www.telia.lt/privatiems
-11.	Transcendent Group, https://rekvizitai.vz.lt/en/company/transcendent_group_baltics/, https://transcendentgroup.com/location/baltics/
+10.	Squalio, https://squalio.com/lt/, https://squalio.com/lt/
+11. Telia, https://rekvizitai.vz.lt/en/company/teo_lt/ , https://www.telia.lt/privatiems
+12.	Transcendent Group, https://rekvizitai.vz.lt/en/company/transcendent_group_baltics/, https://transcendentgroup.com/location/baltics/
 
-## 4.	Education & Research:
+
+## 4.	Education & Research
 1.	BKA, https://rekvizitai.vz.lt/en/company/uab_baltijos_kompiuteriu_akademija/, http://www.bka.lt/
 2.	BPTI, https://rekvizitai.vz.lt/en/company/baltijos_pazangiu_technologiju_institutas/, https://www.bpti.lt/
 3.	Cyber Security Academy, https://rekvizitai.vz.lt/en/company/hermitage_solutions/, https://www.cybersecurityacademy.lt/
