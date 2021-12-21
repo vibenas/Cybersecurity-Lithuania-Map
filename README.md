@@ -3,6 +3,8 @@ Map of Cybersecurity Sector in Lithuania
 
 The map is serving as listing and visualisation of organisations in cybersecurity sector in Lithuania.
 
+![Cybersecurity Lithuania Map 2021 12 21](/maps/2021-12-21_Cyberecurity_Lithuania_Map.png "Cybersecurity Lithuania Map 2021 12 21")
+
 Map is compiled by Vilius Benetis.
 
 An Organisation is placed under their primary area, and under primary ownership, where applicable (local/foreign).
@@ -71,13 +73,14 @@ If your organisation would like to be mentioned, please contact via message on h
 *	**Foreign Ownership**
 1. Advantio, https://rekvizitai.vz.lt/en/company/advantio_lt/ , https://www.advantio.com/
 2. Atea, https://rekvizitai.vz.lt/en/company/atea/, https://www.atea.lt/
-3. Cognizant, https://rekvizitai.vz.lt/en/company/cognizant/, https://www.cognizant.com/us/en/services/cybersecurity-services
-4. HWG Cyber Security, https://rekvizitai.vz.lt/en/company/hwg_cyber_security/, https://www.hwg.it
-5. Proact, https://rekvizitai.vz.lt/en/company/proact_lietuva/, https://www.proact.eu/
-6. Santa Monica Networks, https://rekvizitai.vz.lt/en/company/santa_monica_networks/, https://www.smn.lt/
-7. Squalio, https://squalio.com/lt/, https://squalio.com/lt/
-8. Telia, https://rekvizitai.vz.lt/en/company/teo_lt/ , https://www.telia.lt/privatiems
-9. Transcendent Group, https://rekvizitai.vz.lt/en/company/transcendent_group_baltics/, https://transcendentgroup.com/location/baltics/
+3. Bite, https://rekvizitai.vz.lt/en/company/bite_lietuva/, https://www.bite.lt/
+4. Cognizant, https://rekvizitai.vz.lt/en/company/cognizant/, https://www.cognizant.com/us/en/services/cybersecurity-services
+5. HWG Cyber Security, https://rekvizitai.vz.lt/en/company/hwg_cyber_security/, https://www.hwg.it
+6. Proact, https://rekvizitai.vz.lt/en/company/proact_lietuva/, https://www.proact.eu/
+7. Santa Monica Networks, https://rekvizitai.vz.lt/en/company/santa_monica_networks/, https://www.smn.lt/
+8. Squalio, https://squalio.com/lt/, https://squalio.com/lt/
+9. Telia, https://rekvizitai.vz.lt/en/company/teo_lt/ , https://www.telia.lt/privatiems
+10. Transcendent Group, https://rekvizitai.vz.lt/en/company/transcendent_group_baltics/, https://transcendentgroup.com/location/baltics/
 
 ## 4.	Education & Research
 1. BKA, https://rekvizitai.vz.lt/en/company/uab_baltijos_kompiuteriu_akademija/, http://www.bka.lt/
@@ -110,6 +113,7 @@ If your organisation would like to be mentioned, please contact via message on h
     4. Simplex - not cybersecurity anymore, https://rekvizitai.vz.lt/en/company/simplex_payment_services/, https://www.simplex.com/
 2. Changes
     1. Changed name: Arxan to digital.ai
+
 
 ## Previous versions
 
