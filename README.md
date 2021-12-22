@@ -113,7 +113,10 @@ If your organisation would like to be mentioned, please contact via message on h
 7. State Data Protection Inspectorate, https://rekvizitai.vz.lt/en/company/valstybine_duomenu_apsaugos_inspekcija/, https://vdai.lrv.lt/
 
 
-## Previous versions
+## Previous Versions
+
+* v.2021-12-21:
+![Cybersecurity Lithuania Map 2021 12 21](/maps/2021-12-21_Cyberecurity_Lithuania_Map.png "Cybersecurity Lithuania Map 2021 12 21")
 
 * https://www.linkedin.com/pulse/lt-lietuvos-kibernetinio-saugumo-industrijos-vilius-benetis/ (2019 07 04)
-* ![Cybersecurity Lithuania Map 2019 07 04](/maps/2019-07-04_Cybersecurity-Lithuania-map.jpg "Cybersecurity Lithuania Map 2019 07 04")
+  ![Cybersecurity Lithuania Map 2019 07 04](/maps/2019-07-04_Cybersecurity-Lithuania-map.jpg "Cybersecurity Lithuania Map 2019 07 04")
