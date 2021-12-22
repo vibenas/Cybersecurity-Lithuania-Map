@@ -3,7 +3,7 @@ Map of Cybersecurity Sector in Lithuania
 
 The map is serving as listing and visualisation of organisations in cybersecurity sector in Lithuania.
 
-![Cybersecurity Lithuania Map 2021 12 21](/maps/2021-12-21_Cyberecurity_Lithuania_Map.png "Cybersecurity Lithuania Map 2021 12 21")
+![Cybersecurity Lithuania Map 2021 12 22](/maps/2021-12-22_Cyberecurity_Lithuania_Map.png "Cybersecurity Lithuania Map 2021 12 22")
 
 Map is compiled by Vilius Benetis.
 
@@ -12,12 +12,12 @@ Notes:
 2. Organisations identifying themselves in cybersecurity area and with operations in Lithuania are listed.
 3. Organisations without legal entities but operated locally with agreements as chapters, or as remote unofficial offices in Lithuania are linked to the people in charge.
 4. Resellers, Integrators, Consultancy, and Technology Developers are combined as their operations overlap, thus not possible clearly to separate.
-6. Organisations mentioned have cybersecurity-related business, however they might be covering other sectors with their business activities.
+5. Organisations mentioned have cybersecurity-related business, however they might be covering other sectors with their business activities.
 
 Areas covered:
-1. Technology Developers / Resellers / Integrators / Consultancy
+1. Technology Developers, Resellers, Integrators, Consultancy
 2. Distributors
-3. Educators & Research
+3. Educators, Research, Communities
 4. National Capabilities
 
 If your organisation would like to be mentioned, please contact via message on https://www.linkedin.com/in/viliusbenetis/ 
@@ -44,7 +44,6 @@ If your organisation would like to be mentioned, please contact via message on h
 1. NOD Baltic, https://rekvizitai.vz.lt/en/company/nod_baltic/, https://nodbaltic.com/
 1. Nord Security, https://rekvizitai.vz.lt/en/company/nord_security/, https://nordsecurity.com/
 1. NRD Cyber Security, https://rekvizitai.vz.lt/en/company/nrd_cs/, https://www.nrdcs.lt/
-1. Ondato, https://rekvizitai.vz.lt/en/company/lygiarangiai/, https://ondato.com/
 1. Passcamp, https://rekvizitai.vz.lt/en/company/passcamp/, https://www.passcamp.com/
 1. Predicto, https://rekvizitai.vz.lt/en/company/predicto/, https://predicto.lt/
 1. Privacy Partners, https://rekvizitai.vz.lt/en/company/privacy_partners/, https://www.privacypartners.lt/
@@ -62,13 +61,15 @@ If your organisation would like to be mentioned, please contact via message on h
 1. CUJO AI, https://rekvizitai.vz.lt/en/company/cujo_baltic/, https://cujo.com/
 1. Digital.ai, https://rekvizitai.vz.lt/en/company/arxan_technologies/, https://digital.ai/
 1. HWG Cyber Security, https://rekvizitai.vz.lt/en/company/hwg_cyber_security/, https://www.hwg.it
-1. IBM, https://rekvizitai.vz.lt/en/company/ibm_lietuva/, 
+1. IBM, https://rekvizitai.vz.lt/en/company/ibm_lietuva/, https://www.ibm.com
+1. Microsoft, https://rekvizitai.vz.lt/en/company/microsoft_lietuva/, http://www.microsoft.com
 1. Oracle, https://rekvizitai.vz.lt/en/company/oracle_east_central_europe_limited_filialas/, https://www.oracle.com 
 1. Primend, https://rekvizitai.vz.lt/en/company/primend/, https://www.primend.lt/
 1. Proact, https://rekvizitai.vz.lt/en/company/proact_lietuva/, https://www.proact.eu/
 1. Santa Monica Networks, https://rekvizitai.vz.lt/en/company/santa_monica_networks/, https://www.smn.lt/
 1. Squalio, https://squalio.com/lt/, https://squalio.com/lt/
-1. Telia, https://rekvizitai.vz.lt/en/company/teo_lt/ , https://www.telia.lt/privatiems
+1. Telia, https://rekvizitai.vz.lt/en/company/teo_lt/ , https://www.telia.lt/
+1. Terasky, https://rekvizitai.vz.lt/en/company/terasky_baltic/, https://www.terasky.com/
 1. Transcendent Group, https://rekvizitai.vz.lt/en/company/transcendent_group_baltics/, https://transcendentgroup.com/location/baltics/
 1. VArmour, https://rekvizitai.vz.lt/en/company/varmour_lithuania/, https://www.varmour.com/
 
@@ -76,7 +77,7 @@ If your organisation would like to be mentioned, please contact via message on h
 1. ACC Distribution, https://rekvizitai.vz.lt/en/company/acme_kompiuteriu_komponentai/, https://www.accdistribution.eu/
 2. Also, https://rekvizitai.vz.lt/en/company/gnt_lietuva/, https://www.also.com/
 3. Altacom, https://rekvizitai.vz.lt/en/company/bit_baltic/, https://www.altacom.eu/
-4. Arrow, https://www.arrow.com/
+4. Arrow, https://www.linkedin.com/in/vainius-stra%C5%A1inskas-7402b0126/, https://www.arrow.com/
 5. Baltimax, https://rekvizitai.vz.lt/en/company/baltimax/ , https://www.baltimax.com/
 6. Dan Communications, https://rekvizitai.vz.lt/en/company/dan_communications/ , http://www.dan.lt/
 7. F9 distribution, https://rekvizitai.vz.lt/en/company/f9_distribution_baltic/, https://www.f9baltic.com/
