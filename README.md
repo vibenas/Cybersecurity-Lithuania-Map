@@ -3,7 +3,7 @@ Map of Cybersecurity Sector in Lithuania
 
 The map is serving as listing and visualisation of organisations in cybersecurity sector in Lithuania.
 
-![Cybersecurity Lithuania Map 2021 12 22](/maps/2021-12-22_Cyberecurity_Lithuania_Map.png "Cybersecurity Lithuania Map 2021 12 22")
+![Cybersecurity Lithuania Map 2022 01 02](/maps/2022-01-02_Cyberecurity_Lithuania_Map.jpg "Cybersecurity Lithuania Map 2022 01 02")
 
 Map is compiled by Vilius Benetis.
 
@@ -52,13 +52,15 @@ If your organisation would like to be mentioned, please contact via message on h
 1. Surfshark, https://rekvizitai.vz.lt/en/company/netflow/, https://surfshark.com/
 1. Syntricks, https://rekvizitai.vz.lt/en/company/syntricks/, https://syntricks.com/
 1. WhiteBit, https://rekvizitai.vz.lt/en/company/whitebit/, https://whitebit.lt/
-   
+1. WiperSoft, https://rekvizitai.vz.lt/en/company/wiper_software/, https://www.wipersoft.com/
+
 *	**Foreign ownership**
 1. Advantio, https://rekvizitai.vz.lt/en/company/advantio_lt/ , https://www.advantio.com/
 1. Atea, https://rekvizitai.vz.lt/en/company/atea/, https://www.atea.lt/
 1. Bite, https://rekvizitai.vz.lt/en/company/bite_lietuva/, https://www.bite.lt/
 1. Cognizant, https://rekvizitai.vz.lt/en/company/cognizant/, https://www.cognizant.com/us/en/services/cybersecurity-services
 1. CUJO AI, https://rekvizitai.vz.lt/en/company/cujo_baltic/, https://cujo.com/
+1. CyberGym, https://rekvizitai.vz.lt/en/company/terasky_baltic/, https://www.cybergym.com/ 
 1. Digital.ai, https://rekvizitai.vz.lt/en/company/arxan_technologies/, https://digital.ai/
 1. HWG Cyber Security, https://rekvizitai.vz.lt/en/company/hwg_cyber_security/, https://www.hwg.it
 1. IBM, https://rekvizitai.vz.lt/en/company/ibm_lietuva/, https://www.ibm.com
@@ -67,22 +69,25 @@ If your organisation would like to be mentioned, please contact via message on h
 1. Primend, https://rekvizitai.vz.lt/en/company/primend/, https://www.primend.lt/
 1. Proact, https://rekvizitai.vz.lt/en/company/proact_lietuva/, https://www.proact.eu/
 1. Santa Monica Networks, https://rekvizitai.vz.lt/en/company/santa_monica_networks/, https://www.smn.lt/
-1. Squalio, https://squalio.com/lt/, https://squalio.com/lt/
-1. Telia, https://rekvizitai.vz.lt/en/company/teo_lt/ , https://www.telia.lt/
+1. Skaylink, https://rekvizitai.vz.lt/en/company/uab_btt_group/, https://www.bttcloud.com/
+1. Squalio, https://rekvizitai.vz.lt/en/company/dpa_lietuva/, https://squalio.com/lt/
+1. Telia, https://rekvizitai.vz.lt/en/company/teo_lt/, https://www.telia.lt/
 1. Terasky, https://rekvizitai.vz.lt/en/company/terasky_baltic/, https://www.terasky.com/
 1. Transcendent Group, https://rekvizitai.vz.lt/en/company/transcendent_group_baltics/, https://transcendentgroup.com/location/baltics/
-1. VArmour, https://rekvizitai.vz.lt/en/company/varmour_lithuania/, https://www.varmour.com/
+1. vArmour, https://rekvizitai.vz.lt/en/company/varmour_lithuania/, https://www.varmour.com/
+
 
 ## 2.	Distributors
 1. ACC Distribution, https://rekvizitai.vz.lt/en/company/acme_kompiuteriu_komponentai/, https://www.accdistribution.eu/
-2. Also, https://rekvizitai.vz.lt/en/company/gnt_lietuva/, https://www.also.com/
-3. Altacom, https://rekvizitai.vz.lt/en/company/bit_baltic/, https://www.altacom.eu/
-4. Arrow, https://www.linkedin.com/in/vainius-stra%C5%A1inskas-7402b0126/, https://www.arrow.com/
-5. Baltimax, https://rekvizitai.vz.lt/en/company/baltimax/ , https://www.baltimax.com/
-6. Dan Communications, https://rekvizitai.vz.lt/en/company/dan_communications/ , http://www.dan.lt/
-7. F9 distribution, https://rekvizitai.vz.lt/en/company/f9_distribution_baltic/, https://www.f9baltic.com/
-8. Hermitage Solutions, https://rekvizitai.vz.lt/en/company/hermitage_solutions/, https://www.hermitage.lt/
-9. Pedab, https://rekvizitai.vz.lt/en/company/pedab_lietuva/, https://www.pedab.com/
+1. Also, https://rekvizitai.vz.lt/en/company/gnt_lietuva/, https://www.also.com/
+1. Altacom, https://rekvizitai.vz.lt/en/company/bit_baltic/, https://www.altacom.eu/
+1. Arrow, https://www.linkedin.com/in/vainius-stra%C5%A1inskas-7402b0126/, https://www.arrow.com/
+1. Baltimax, https://rekvizitai.vz.lt/en/company/baltimax/, https://www.baltimax.com/
+1. Dan Communications, https://rekvizitai.vz.lt/en/company/dan_communications/, http://www.dan.lt/
+1. Exclusive Networks, https://www.linkedin.com/in/armandas-kenstavicius-83929443/, https://www.exclusive-networks.com/
+1. F9 distribution, https://rekvizitai.vz.lt/en/company/f9_distribution_baltic/, https://www.f9baltic.com/
+1. Hermitage Solutions, https://rekvizitai.vz.lt/en/company/hermitage_solutions/, https://www.hermitage.lt/
+1. Pedab, https://rekvizitai.vz.lt/en/company/pedab_lietuva/, https://www.pedab.com/
 
 ## 3.	Education & Research
 1. BKA, https://rekvizitai.vz.lt/en/company/uab_baltijos_kompiuteriu_akademija/, http://www.bka.lt/
@@ -115,8 +120,11 @@ If your organisation would like to be mentioned, please contact via message on h
 
 ## Previous Versions
 
+* v.2021-12-22:
+![Cybersecurity Lithuania Map 2021 12 22](/maps/2021-12-22_Cyberecurity_Lithuania_Map.png "Cybersecurity Lithuania Map 2021 12 22")
+
 * v.2021-12-21:
 ![Cybersecurity Lithuania Map 2021 12 21](/maps/2021-12-21_Cyberecurity_Lithuania_Map.png "Cybersecurity Lithuania Map 2021 12 21")
 
 * https://www.linkedin.com/pulse/lt-lietuvos-kibernetinio-saugumo-industrijos-vilius-benetis/ (2019 07 04)
-  ![Cybersecurity Lithuania Map 2019 07 04](/maps/2019-07-04_Cybersecurity-Lithuania-map.jpg "Cybersecurity Lithuania Map 2019 07 04")
+![Cybersecurity Lithuania Map 2019 07 04](/maps/2019-07-04_Cybersecurity-Lithuania-map.jpg "Cybersecurity Lithuania Map 2019 07 04")
