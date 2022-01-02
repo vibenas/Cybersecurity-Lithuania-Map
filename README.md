@@ -58,10 +58,12 @@ If your organisation would like to be mentioned, please contact via message on h
 1. Advantio, https://rekvizitai.vz.lt/en/company/advantio_lt/ , https://www.advantio.com/
 1. Atea, https://rekvizitai.vz.lt/en/company/atea/, https://www.atea.lt/
 1. Bite, https://rekvizitai.vz.lt/en/company/bite_lietuva/, https://www.bite.lt/
+1. Check Point Software Technologies, https://www.linkedin.com/in/giedriusma/, https://www.checkpoint.com/
 1. Cognizant, https://rekvizitai.vz.lt/en/company/cognizant/, https://www.cognizant.com/us/en/services/cybersecurity-services
 1. CUJO AI, https://rekvizitai.vz.lt/en/company/cujo_baltic/, https://cujo.com/
 1. CyberGym, https://rekvizitai.vz.lt/en/company/terasky_baltic/, https://www.cybergym.com/ 
 1. Digital.ai, https://rekvizitai.vz.lt/en/company/arxan_technologies/, https://digital.ai/
+1. Fortinet, https://www.linkedin.com/in/vingrys/, https://www.fortinet.com/
 1. HWG Cyber Security, https://rekvizitai.vz.lt/en/company/hwg_cyber_security/, https://www.hwg.it
 1. IBM, https://rekvizitai.vz.lt/en/company/ibm_lietuva/, https://www.ibm.com
 1. Microsoft, https://rekvizitai.vz.lt/en/company/microsoft_lietuva/, http://www.microsoft.com
@@ -74,6 +76,7 @@ If your organisation would like to be mentioned, please contact via message on h
 1. Telia, https://rekvizitai.vz.lt/en/company/teo_lt/, https://www.telia.lt/
 1. Terasky, https://rekvizitai.vz.lt/en/company/terasky_baltic/, https://www.terasky.com/
 1. Transcendent Group, https://rekvizitai.vz.lt/en/company/transcendent_group_baltics/, https://transcendentgroup.com/location/baltics/
+1. Trend Micro, https://www.linkedin.com/in/justinasval/, https://www.trendmicro.com/
 1. vArmour, https://rekvizitai.vz.lt/en/company/varmour_lithuania/, https://www.varmour.com/
 
 
