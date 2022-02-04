@@ -63,14 +63,18 @@ If your organisation would like to be mentioned, please contact via message on h
 1. Check Point Software Technologies, https://www.linkedin.com/in/giedriusma/, https://www.checkpoint.com/
 1. Cognizant, https://rekvizitai.vz.lt/en/company/cognizant/, https://www.cognizant.com/us/en/services/cybersecurity-services
 1. CUJO AI, https://rekvizitai.vz.lt/en/company/cujo_baltic/, https://cujo.com/
+1. Deloitte Lietuva, https://rekvizitai.vz.lt/en/company/deloitte_lietuva/, https://www.deloitte.lt/
 1. Digital.ai, https://rekvizitai.vz.lt/en/company/arxan_technologies/, https://digital.ai/
+1. Ernst & Young Baltic, https://rekvizitai.vz.lt/en/company/ernst_young_baltic/, https://www.ey.com/en_lt
 1. Fortinet, https://www.linkedin.com/in/vingrys/, https://www.fortinet.com/
 1. HWG Cyber Security, https://rekvizitai.vz.lt/en/company/hwg_cyber_security/, https://www.hwg.it
 1. IBM, https://rekvizitai.vz.lt/en/company/ibm_lietuva/, https://www.ibm.com
+1. KPMG Baltics, https://rekvizitai.vz.lt/en/company/kpmg_baltics/, http://www.kpmg.com
 1. Microsoft, https://rekvizitai.vz.lt/en/company/microsoft_lietuva/, http://www.microsoft.com
 1. Oracle, https://rekvizitai.vz.lt/en/company/oracle_east_central_europe_limited_filialas/, https://www.oracle.com 
 1. Primend, https://rekvizitai.vz.lt/en/company/primend/, https://www.primend.lt/
 1. Proact, https://rekvizitai.vz.lt/en/company/proact_lietuva/, https://www.proact.eu/
+1. PricewaterhouseCoopers, https://rekvizitai.vz.lt/en/company/pricewaterhousecoopers/, https://www.pwc.com/lt
 1. Santa Monica Networks, https://rekvizitai.vz.lt/en/company/santa_monica_networks/, https://www.smn.lt/
 1. Skaylink, https://rekvizitai.vz.lt/en/company/uab_btt_group/, https://www.bttcloud.com/
 1. Squalio, https://rekvizitai.vz.lt/en/company/dpa_lietuva/, https://squalio.com/lt/
