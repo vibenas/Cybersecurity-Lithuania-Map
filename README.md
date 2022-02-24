@@ -3,7 +3,7 @@ Map of Cybersecurity Sector in Lithuania
 
 The map is serving as listing and visualisation of organisations in cybersecurity sector in Lithuania.
 
-![Cybersecurity Lithuania Map 2022 02 07](/maps/2022-02-07_Cybersecurity_Lithuania_Map.jpg "Cybersecurity Lithuania Map 2022 02 07")
+![Cybersecurity Lithuania Map 2022 02 07](/maps/2022-02-24_Cybersecurity_Lithuania_Map.jpg "Cybersecurity Lithuania Map 2022 02 24")
 
 Map is compiled by Vilius Benetis.
 
@@ -27,6 +27,7 @@ If your organisation would like to be mentioned, please contact via message on h
 *	**Local ownership**
 1. Acrux Cyber Services, https://rekvizitai.vz.lt/en/company/svaros_bitutes/,  https://www.acruxcs.com/
 1. Adwisery, https://rekvizitai.vz.lt/en/company/uab_best_business_solutions/, https://www.adwisery.eu/en/home/
+1. Albars, https://rekvizitai.vz.lt/en/company/albars/, http://www.albars.eu
 1. Avedus, https://rekvizitai.vz.lt/en/company/avedus/, https://avedus.lt/
 1. Baltic Amadeus, https://rekvizitai.vz.lt/en/company/baltic_amadeus/, https://www.ba.lt/
 1. BGM, https://rekvizitai.vz.lt/en/company/b_g_m/, https://www.bgm.lt/
@@ -57,9 +58,9 @@ If your organisation would like to be mentioned, please contact via message on h
 
 *	**Foreign ownership**
 1. Advantio, https://rekvizitai.vz.lt/en/company/advantio_lt/, https://www.advantio.com/
-1. Albars, https://rekvizitai.vz.lt/en/company/albars/, http://www.albars.eu
 1. Atea, https://rekvizitai.vz.lt/en/company/atea/, https://www.atea.lt/
 1. Bite, https://rekvizitai.vz.lt/en/company/bite_lietuva/, https://www.bite.lt/
+1. Centric, https://rekvizitai.vz.lt/imone/centric_it_solutions_lithuania/, http://www.centric.eu
 1. Check Point Software Technologies, https://www.linkedin.com/in/giedriusma/, https://www.checkpoint.com/
 1. Cognizant, https://rekvizitai.vz.lt/en/company/cognizant/, https://www.cognizant.com/us/en/services/cybersecurity-services
 1. CUJO AI, https://rekvizitai.vz.lt/en/company/cujo_baltic/, https://cujo.com/
