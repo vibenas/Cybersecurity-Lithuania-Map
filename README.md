@@ -3,9 +3,9 @@ Map of Cybersecurity Sector in Lithuania
 
 The map is serving as listing and visualisation of organisations in cybersecurity sector in Lithuania.
 
-![Cybersecurity Lithuania Map 2022 02 24](/maps/2022-02-24_Cybersecurity_Lithuania_Map.jpg "Cybersecurity Lithuania Map 2022 02 24")
+![Cybersecurity Lithuania Map 2022 05 26](/maps/2022-05-26_Cybersecurity_Lithuania_Map.jpg "Cybersecurity Lithuania Map 2022 05 26")
 
-Map is compiled by Vilius Benetis.
+THe map is compiled by Vilius Benetis.
 
 Notes:
 1. An Organisation is placed under their primary self-identifying area, and under primary ownership, where applicable (local/foreign).
@@ -76,6 +76,7 @@ If your organisation would like to be mentioned, please contact via message on h
 1. Primend, https://rekvizitai.vz.lt/en/company/primend/, https://www.primend.lt/
 1. Proact, https://rekvizitai.vz.lt/en/company/proact_lietuva/, https://www.proact.eu/
 1. PricewaterhouseCoopers, https://rekvizitai.vz.lt/en/company/pricewaterhousecoopers/, https://www.pwc.com/lt
+1. Samsung Electronics Baltics, https://rekvizitai.vz.lt/en/company/samsung_electronics_lithuania/, https://docs.samsungknox.com/admin/whitepaper/kpe/samsung-knox.htm 
 1. Santa Monica Networks, https://rekvizitai.vz.lt/en/company/santa_monica_networks/, https://www.smn.lt/
 1. Skaylink, https://rekvizitai.vz.lt/en/company/uab_btt_group/, https://www.bttcloud.com/
 1. Squalio, https://rekvizitai.vz.lt/en/company/dpa_lietuva/, https://squalio.com/lt/
@@ -132,6 +133,9 @@ If your organisation would like to be mentioned, please contact via message on h
 
 
 ## Previous Versions
+
+* v.2022-02-24:
+![Cybersecurity Lithuania Map 2022 02 24](/maps/2022-02-24_Cybersecurity_Lithuania_Map.jpg "Cybersecurity Lithuania Map 2022 02 24")
 
 * v.2022-01-02:
 ![Cybersecurity Lithuania Map 2022 01 02](/maps/2022-01-02_Cyberecurity_Lithuania_Map.jpg "Cybersecurity Lithuania Map 2022 01 02")
