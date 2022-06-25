@@ -3,7 +3,7 @@ Map of Cybersecurity Sector in Lithuania
 
 The map is serving as listing and visualisation of organisations in cybersecurity sector in Lithuania.
 
-![Cybersecurity Lithuania Map 2022 05 26](/maps/2022-05-26_Cybersecurity_Lithuania_Map.jpg "Cybersecurity Lithuania Map 2022 05 26")
+![Cybersecurity Lithuania Map 2022 06 26](/maps/2022-06-26_Cybersecurity_Lithuania_Map.jpg "Cybersecurity Lithuania Map 2022 06 26")
 
 THe map is compiled by Vilius Benetis.
 
@@ -123,6 +123,7 @@ If your organisation would like to be mentioned, please contact via message on h
 1. Women4Cyber, https://www.linkedin.com/in/zukauskiene/, https://women4cyber.eu/roadmap-of-actions/women4cyber-chapters
 
 ## 4.	National Capabilities:
+1. Cyber Rapid Response Teams and Mutual Assistance in Cyber Security (CRRTs), PESCO project, https://rekvizitai.vz.lt/en/company/lietuvos_respublikos_krasto_apsaugos_ministerija/, https://crrts.eu/
 1. Cyber Security and Information Technology Policy Group under NMoD, https://rekvizitai.vz.lt/en/company/lietuvos_respublikos_krasto_apsaugos_ministerija/, https://kam.lt/en/structure_and_contacts/kontaktai_eng/649.html
 1. KVTC-CERT, https://rekvizitai.vz.lt/en/company/infostruktura/, https://kvtc.lrv.lt/lt/veiklos-sritys/kvtc-cert
 1. Lithuanian Criminal Police Bureau, https://rekvizitai.vz.lt/en/company/lietuvos_kriminalines_policijos_biuras/, https://policija.lrv.lt/
@@ -133,6 +134,9 @@ If your organisation would like to be mentioned, please contact via message on h
 
 
 ## Previous Versions
+
+* v.2022-05-26:
+![Cybersecurity Lithuania Map 2022 05 26](/maps/2022-05-26_Cybersecurity_Lithuania_Map.jpg "Cybersecurity Lithuania Map 2022 05 26")
 
 * v.2022-02-24:
 ![Cybersecurity Lithuania Map 2022 02 24](/maps/2022-02-24_Cybersecurity_Lithuania_Map.jpg "Cybersecurity Lithuania Map 2022 02 24")
