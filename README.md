@@ -3,7 +3,7 @@ Map of Cybersecurity Sector in Lithuania
 
 The map is serving as listing and visualisation of organisations in cybersecurity sector in Lithuania.
 
-![Cybersecurity Lithuania Map 2022 06 26](/maps/2022-06-26_Cybersecurity_Lithuania_Map.jpg "Cybersecurity Lithuania Map 2022 06 26")
+![Cybersecurity Lithuania Map 2022 09 09](/maps/2022-09-09_Cybersecurity_Lithuania_Map.jpg "Cybersecurity Lithuania Map 2022 09 09")
 
 THe map is compiled by Vilius Benetis.
 
@@ -128,12 +128,16 @@ If your organisation would like to be mentioned, please contact via message on h
 1. KVTC-CERT, https://rekvizitai.vz.lt/en/company/infostruktura/, https://kvtc.lrv.lt/lt/veiklos-sritys/kvtc-cert
 1. Lithuanian Criminal Police Bureau, https://rekvizitai.vz.lt/en/company/lietuvos_kriminalines_policijos_biuras/, https://policija.lrv.lt/
 1. LITNET CERT, https://rekvizitai.vz.lt/en/company/kauno_technologijos_universitetas/, https://litnet.lt/
+1. MITA, https://rekvizitai.vz.lt/en/company/tarptautiniu_mokslo_ir_technologiju_pletros_programu_agentura/, https://mita.lrv.lt/lt/veiklos-sritys/programos-priemones/europos-horizontas/mita-temines-sritys-ir-ncp/klasteris-3-veiksmu-grupe-civiline-visuomenes-sauga
 1. NKSC, https://rekvizitai.vz.lt/en/company/vyriausybiniu_rysiu_centras_prie_lietuvos_respublikos_valstybes_saugumo_departamento/, https://www.nksc.lt/
 1. Regional Cyber Defence Center, https://rekvizitai.vz.lt/en/company/vyriausybiniu_rysiu_centras_prie_lietuvos_respublikos_valstybes_saugumo_departamento/, https://www.nksc.lt/en/structure.html
 1. State Data Protection Inspectorate, https://rekvizitai.vz.lt/en/company/valstybine_duomenu_apsaugos_inspekcija/, https://vdai.lrv.lt/
 
 
 ## Previous Versions
+
+* v.2022-06-26:
+![Cybersecurity Lithuania Map 2022 06 26](/maps/2022-06-26_Cybersecurity_Lithuania_Map.jpg "Cybersecurity Lithuania Map 2022 06 26")
 
 * v.2022-05-26:
 ![Cybersecurity Lithuania Map 2022 05 26](/maps/2022-05-26_Cybersecurity_Lithuania_Map.jpg "Cybersecurity Lithuania Map 2022 05 26")
