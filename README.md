@@ -3,7 +3,7 @@ Map of Cybersecurity Sector in Lithuania
 
 The map is serving as listing and visualisation of organisations in cybersecurity sector in Lithuania.
 
-![Cybersecurity Lithuania Map 2022 09 09](/maps/2022-09-09_Cybersecurity_Lithuania_Map.jpg "Cybersecurity Lithuania Map 2022 09 09")
+![Cybersecurity Lithuania Map 2022 12 21](/maps/2022-12-21_Cybersecurity_Lithuania_Map.jpg "Cybersecurity Lithuania Map 2022 12 21")
 
 THe map is compiled by Vilius Benetis.
 
@@ -41,6 +41,7 @@ If your organisation would like to be mentioned, please contact via message on h
 1. Emplos, https://rekvizitai.vz.lt/en/company/emplos/, https://emplos.lt/
 1. Esec, https://rekvizitai.vz.lt/en/company/kibernetinis_saugumas/, https://tyrimai.esec.lt/
 1. idBlender, https://rekvizitai.vz.lt/en/company/resolvido/, https://idblender.com/
+1. Kabinpa cyber security, https://rekvizitai.vz.lt/en/company/kabinpa_cyber_security_mb/, https://www.kabinpa.lt/
 1. Netspecto, https://rekvizitai.vz.lt/en/company/netspecto/, https://www.netspecto.lt/
 1. NOD Baltic, https://rekvizitai.vz.lt/en/company/nod_baltic/, https://nodbaltic.com/
 1. Nord Security, https://rekvizitai.vz.lt/en/company/nord_security/, https://nordsecurity.com/
@@ -135,6 +136,8 @@ If your organisation would like to be mentioned, please contact via message on h
 
 
 ## Previous Versions
+* v.2022-09-09:
+![Cybersecurity Lithuania Map 2022 09 09](/maps/2022-09-09_Cybersecurity_Lithuania_Map.jpg "Cybersecurity Lithuania Map 2022 09 09")
 
 * v.2022-06-26:
 ![Cybersecurity Lithuania Map 2022 06 26](/maps/2022-06-26_Cybersecurity_Lithuania_Map.jpg "Cybersecurity Lithuania Map 2022 06 26")
