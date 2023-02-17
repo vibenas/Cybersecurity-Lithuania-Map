@@ -45,7 +45,7 @@ If your organisation would like to be mentioned, please contact via message on h
 1. Kabinpa cyber security, https://rekvizitai.vz.lt/en/company/kabinpa_cyber_security_mb/, https://www.kabinpa.lt/
 1. Netspecto, https://rekvizitai.vz.lt/en/company/netspecto/, https://www.netspecto.lt/
 1. NOD Baltic, https://rekvizitai.vz.lt/en/company/nod_baltic/, https://nodbaltic.com/
-1. Nord Security, https://rekvizitai.vz.lt/en/company/nord_security/, https://nordsecurity.com/
+1. Nord Security, https://rekvizitai.vz.lt/en/company/360_it/, https://nordsecurity.com/
 1. NOVIAN, https://rekvizitai.vz.lt/en/company/baip_baltic_amadeus_infrastrukturos_paslaugos/, https://novian.io/services-and-solutions/cybersecurity/
 1. NRD Cyber Security, https://rekvizitai.vz.lt/en/company/nrd_cs/, https://www.nrdcs.lt/
 1. Passcamp, https://rekvizitai.vz.lt/en/company/passcamp/, https://www.passcamp.com/
