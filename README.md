@@ -5,7 +5,7 @@ The map is serving as listing and visualisation of organisations in cybersecurit
 
 ![Cybersecurity Lithuania Map 2022 12 23](/maps/2022-12-23_Cybersecurity_Lithuania_Map.jpg "Cybersecurity@Lithuania Map 2022 12 23")
 
-THe map is compiled by Vilius Benetis.
+The map is compiled by Vilius Benetis.
 
 Notes:
 1. An Organisation is placed under their primary self-identifying area, and under primary ownership, where applicable (local/foreign).
