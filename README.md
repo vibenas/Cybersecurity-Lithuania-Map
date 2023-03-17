@@ -28,6 +28,7 @@ If your organisation would like to be mentioned, please contact via message on h
 1. Acrux Cyber Services, https://rekvizitai.vz.lt/en/company/svaros_bitutes/,  https://www.acruxcs.com/
 1. Adwisery, https://rekvizitai.vz.lt/en/company/uab_best_business_solutions/, https://www.adwisery.eu/en/home/
 1. Albars, https://rekvizitai.vz.lt/en/company/albars/, http://www.albars.eu
+1. Atakos vektorius, https://rekvizitai.vz.lt/en/company/atakos_vektorius/, https://atakosvektorius.lt/
 1. Avedus, https://rekvizitai.vz.lt/en/company/avedus/, https://avedus.lt/
 1. Baltic Amadeus, https://rekvizitai.vz.lt/en/company/baltic_amadeus/, https://www.ba.lt/
 1. BGM, https://rekvizitai.vz.lt/en/company/b_g_m/, https://www.bgm.lt/
