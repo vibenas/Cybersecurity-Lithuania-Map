@@ -3,7 +3,7 @@ Map of Cybersecurity Sector in Lithuania
 
 The map is serving as listing and visualisation of organisations in cybersecurity sector in Lithuania.
 
-![Cybersecurity Lithuania Map 2022 12 23](/maps/2022-12-23_Cybersecurity_Lithuania_Map.jpg "Cybersecurity@Lithuania Map 2022 12 23")
+![Cybersecurity Lithuania Map 2023 03 18](/maps/2023-03-18_Cybersecurity_Lithuania_Map.jpg "Cybersecurity@Lithuania Map 2023 03 18")
 
 The map is compiled by Vilius Benetis.
 
@@ -41,6 +41,7 @@ If your organisation would like to be mentioned, please contact via message on h
 1. DPS Solutions, https://rekvizitai.vz.lt/en/company/duomenu_apsaugos_ir_saugumo_sprendimai/, https://dpssolutions.eu/
 1. Emplos, https://rekvizitai.vz.lt/en/company/emplos/, https://emplos.lt/
 1. Esec, https://rekvizitai.vz.lt/en/company/kibernetinis_saugumas/, https://tyrimai.esec.lt/
+1. Fortevento, https://rekvizitai.vz.lt/en/company/uab_fortevento/, https://www.fortevento.lt/
 1. GenCyber, https://rekvizitai.vz.lt/en/company/ag_cyber/, https://gencyber.io/
 1. idBlender, https://rekvizitai.vz.lt/en/company/resolvido/, https://idblender.com/
 1. Kabinpa cyber security, https://rekvizitai.vz.lt/en/company/kabinpa_cyber_security_mb/, https://www.kabinpa.lt/
@@ -83,6 +84,7 @@ If your organisation would like to be mentioned, please contact via message on h
 1. Santa Monica Networks, https://rekvizitai.vz.lt/en/company/santa_monica_networks/, https://www.smn.lt/
 1. Skaylink, https://rekvizitai.vz.lt/en/company/uab_btt_group/, https://www.bttcloud.com/
 1. Squalio, https://rekvizitai.vz.lt/en/company/dpa_lietuva/, https://squalio.com/lt/
+1. Tele2, https://rekvizitai.vz.lt/en/company/tele2_uab/, https://tele2.lt/privatiems/interneto-apsauga
 1. Telia, https://rekvizitai.vz.lt/en/company/teo_lt/, https://www.telia.lt/
 1. Terasky, https://rekvizitai.vz.lt/en/company/terasky_baltic/, https://www.terasky.com/
 1. Transcendent Group, https://rekvizitai.vz.lt/en/company/transcendent_group_baltics/, https://transcendentgroup.com/location/baltics/
@@ -138,6 +140,9 @@ If your organisation would like to be mentioned, please contact via message on h
 
 
 ## Previous Versions
+* v.2022-12-23:
+![Cybersecurity Lithuania Map 2022 12 23](/maps/2022-12-23_Cybersecurity_Lithuania_Map.jpg "Cybersecurity@Lithuania Map 2022 12 23")
+
 * v.2022-09-09:
 ![Cybersecurity Lithuania Map 2022 09 09](/maps/2022-09-09_Cybersecurity_Lithuania_Map.jpg "Cybersecurity Lithuania Map 2022 09 09")
 
@@ -147,17 +152,7 @@ If your organisation would like to be mentioned, please contact via message on h
 * v.2022-05-26:
 ![Cybersecurity Lithuania Map 2022 05 26](/maps/2022-05-26_Cybersecurity_Lithuania_Map.jpg "Cybersecurity Lithuania Map 2022 05 26")
 
-* v.2022-02-24:
-![Cybersecurity Lithuania Map 2022 02 24](/maps/2022-02-24_Cybersecurity_Lithuania_Map.jpg "Cybersecurity Lithuania Map 2022 02 24")
-
-* v.2022-01-02:
-![Cybersecurity Lithuania Map 2022 01 02](/maps/2022-01-02_Cyberecurity_Lithuania_Map.jpg "Cybersecurity Lithuania Map 2022 01 02")
-
-* v.2021-12-22:
-![Cybersecurity Lithuania Map 2021 12 22](/maps/2021-12-22_Cyberecurity_Lithuania_Map.png "Cybersecurity Lithuania Map 2021 12 22")
-
-* v.2021-12-21:
-![Cybersecurity Lithuania Map 2021 12 21](/maps/2021-12-21_Cyberecurity_Lithuania_Map.png "Cybersecurity Lithuania Map 2021 12 21")
-
 * https://www.linkedin.com/pulse/lt-lietuvos-kibernetinio-saugumo-industrijos-vilius-benetis/ (2019 07 04)
 ![Cybersecurity Lithuania Map 2019 07 04](/maps/2019-07-04_Cybersecurity-Lithuania-map.jpg "Cybersecurity Lithuania Map 2019 07 04")
+
+...more versions can be found in maps directory.
