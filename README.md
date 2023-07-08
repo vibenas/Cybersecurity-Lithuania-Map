@@ -3,7 +3,7 @@ Map of Cybersecurity Sector in Lithuania
 
 The map is serving as listing and visualisation of organisations in cybersecurity sector in Lithuania.
 
-![Cybersecurity Lithuania Map 2023 05 14](/maps/2023-05-14_Cybersecurity_Lithuania_Map.jpg "Cybersecurity@Lithuania Map 2023 05 14")
+![Cybersecurity Lithuania Map 2023 07 08](/maps/2023-07-08_Cybersecurity_Lithuania_Map.jpg "Cybersecurity@Lithuania Map 2023 07 08")
 
 The map is compiled by Vilius Benetis.
 
@@ -79,20 +79,21 @@ If your organisation would like to be mentioned, please contact via message on h
 14. KPMG Baltics, https://rekvizitai.vz.lt/en/company/kpmg_baltics/, http://www.kpmg.com
 15. Microsoft, https://rekvizitai.vz.lt/en/company/microsoft_lietuva/, http://www.microsoft.com
 16. Oracle, https://rekvizitai.vz.lt/en/company/oracle_east_central_europe_limited_filialas/, https://www.oracle.com 
-17. Primend, https://rekvizitai.vz.lt/en/company/primend/, https://www.primend.lt/
-18. Proact, https://rekvizitai.vz.lt/en/company/proact_lietuva/, https://www.proact.eu/
-19. PricewaterhouseCoopers, https://rekvizitai.vz.lt/en/company/pricewaterhousecoopers/, https://www.pwc.com/lt
-20. Samsung Electronics Baltics, https://rekvizitai.vz.lt/en/company/samsung_electronics_lithuania/, https://docs.samsungknox.com/admin/whitepaper/kpe/samsung-knox.htm 
-21. Santa Monica Networks, https://rekvizitai.vz.lt/en/company/santa_monica_networks/, https://www.smn.lt/
-22. SAP, https://rekvizitai.vz.lt/en/company/sap_uab/, http://www.sap.com/lithuania/
-23. Skaylink, https://rekvizitai.vz.lt/en/company/uab_btt_group/, https://www.bttcloud.com/
-24. Squalio, https://rekvizitai.vz.lt/en/company/dpa_lietuva/, https://squalio.com/lt/
-25. Tele2, https://rekvizitai.vz.lt/en/company/tele2_uab/, https://tele2.lt/privatiems/interneto-apsauga/
-26. Telia, https://rekvizitai.vz.lt/en/company/teo_lt/, https://www.telia.lt/
-27. Terasky, https://rekvizitai.vz.lt/en/company/terasky_baltic/, https://www.terasky.com/
-28. TestDevLab, https://rekvizitai.vz.lt/en/company/testdevlab/, https://www.testdevlab.com/
-29. Transcendent Group, https://rekvizitai.vz.lt/en/company/transcendent_group_baltics/, https://transcendentgroup.com/location/baltics/
-30. Trend Micro, https://www.linkedin.com/in/justinasval/, https://www.trendmicro.com/
+17. Palantir Technologies Lithuania, https://rekvizitai.vz.lt/en/company/palantir_technologies_lithuania/, https://www.palantir.com/ 
+18. Primend, https://rekvizitai.vz.lt/en/company/primend/, https://www.primend.lt/
+19. Proact, https://rekvizitai.vz.lt/en/company/proact_lietuva/, https://www.proact.eu/
+20. PricewaterhouseCoopers, https://rekvizitai.vz.lt/en/company/pricewaterhousecoopers/, https://www.pwc.com/lt
+21. Samsung Electronics Baltics, https://rekvizitai.vz.lt/en/company/samsung_electronics_lithuania/, https://docs.samsungknox.com/admin/whitepaper/kpe/samsung-knox.htm 
+22. Santa Monica Networks, https://rekvizitai.vz.lt/en/company/santa_monica_networks/, https://www.smn.lt/
+23. SAP, https://rekvizitai.vz.lt/en/company/sap_uab/, http://www.sap.com/lithuania/
+24. Skaylink, https://rekvizitai.vz.lt/en/company/uab_btt_group/, https://www.bttcloud.com/
+25. Squalio, https://rekvizitai.vz.lt/en/company/dpa_lietuva/, https://squalio.com/lt/
+26. Tele2, https://rekvizitai.vz.lt/en/company/tele2_uab/, https://tele2.lt/privatiems/interneto-apsauga/
+27. Telia, https://rekvizitai.vz.lt/en/company/teo_lt/, https://www.telia.lt/
+28. Terasky, https://rekvizitai.vz.lt/en/company/terasky_baltic/, https://www.terasky.com/
+29. TestDevLab, https://rekvizitai.vz.lt/en/company/testdevlab/, https://www.testdevlab.com/
+30. Transcendent Group, https://rekvizitai.vz.lt/en/company/transcendent_group_baltics/, https://transcendentgroup.com/location/baltics/
+31. Trend Micro, https://www.linkedin.com/in/justinasval/, https://www.trendmicro.com/
 32. vArmour, https://rekvizitai.vz.lt/en/company/varmour_lithuania/, https://www.varmour.com/
 
 
@@ -140,13 +141,15 @@ If your organisation would like to be mentioned, please contact via message on h
 4. KVTC-CERT, https://rekvizitai.vz.lt/en/company/infostruktura/, https://kvtc.lrv.lt/lt/veiklos-sritys/kvtc-cert
 5. Lithuanian Criminal Police Bureau, https://rekvizitai.vz.lt/en/company/lietuvos_kriminalines_policijos_biuras/, https://policija.lrv.lt/
 6. LITNET CERT, https://rekvizitai.vz.lt/en/company/kauno_technologijos_universitetas/, https://litnet.lt/
-7. MITA, https://rekvizitai.vz.lt/en/company/tarptautiniu_mokslo_ir_technologiju_pletros_programu_agentura/, https://mita.lrv.lt/lt/veiklos-sritys/programos-priemones/europos-horizontas/mita-temines-sritys-ir-ncp/klasteris-3-veiksmu-grupe-civiline-visuomenes-sauga
-8. NKSC, https://rekvizitai.vz.lt/en/company/vyriausybiniu_rysiu_centras_prie_lietuvos_respublikos_valstybes_saugumo_departamento/, https://www.nksc.lt/
-9.  Regional Cyber Defence Center, https://rekvizitai.vz.lt/en/company/vyriausybiniu_rysiu_centras_prie_lietuvos_respublikos_valstybes_saugumo_departamento/, https://www.nksc.lt/en/structure.html
-10. State Data Protection Inspectorate, https://rekvizitai.vz.lt/en/company/valstybine_duomenu_apsaugos_inspekcija/, https://vdai.lrv.lt/
+7. NKSC, https://rekvizitai.vz.lt/en/company/vyriausybiniu_rysiu_centras_prie_lietuvos_respublikos_valstybes_saugumo_departamento/, https://www.nksc.lt/
+8.  Regional Cyber Defence Center, https://rekvizitai.vz.lt/en/company/vyriausybiniu_rysiu_centras_prie_lietuvos_respublikos_valstybes_saugumo_departamento/, https://www.nksc.lt/en/structure.html
+9. State Data Protection Inspectorate, https://rekvizitai.vz.lt/en/company/valstybine_duomenu_apsaugos_inspekcija/, https://vdai.lrv.lt/
 
 
 ## Previous Versions
+* v.2023-05-14:
+![Cybersecurity Lithuania Map 2023 05 14](/maps/2023-05-14_Cybersecurity_Lithuania_Map.jpg "Cybersecurity@Lithuania Map 2023 05 14")
+
 * v.2023-03-18:
 ![Cybersecurity Lithuania Map 2023 03 18](/maps/2023-03-18_Cybersecurity_Lithuania_Map.jpg "Cybersecurity@Lithuania Map 2023 03 18")
 
@@ -155,9 +158,6 @@ If your organisation would like to be mentioned, please contact via message on h
 
 * v.2022-09-09:
 ![Cybersecurity Lithuania Map 2022 09 09](/maps/2022-09-09_Cybersecurity_Lithuania_Map.jpg "Cybersecurity Lithuania Map 2022 09 09")
-
-* v.2022-06-26:
-![Cybersecurity Lithuania Map 2022 06 26](/maps/2022-06-26_Cybersecurity_Lithuania_Map.jpg "Cybersecurity Lithuania Map 2022 06 26")
 
 * https://www.linkedin.com/pulse/lt-lietuvos-kibernetinio-saugumo-industrijos-vilius-benetis/ (2019 07 04)
 ![Cybersecurity Lithuania Map 2019 07 04](/maps/2019-07-04_Cybersecurity-Lithuania-map.jpg "Cybersecurity Lithuania Map 2019 07 04")
