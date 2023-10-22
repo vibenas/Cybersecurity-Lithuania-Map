@@ -49,7 +49,7 @@ If your organisation would like to be mentioned or you know other cybersecurity 
 19. GenCyber, https://rekvizitai.vz.lt/en/company/ag_cyber/, https://gencyber.io/
 20. idBlender, https://rekvizitai.vz.lt/en/company/resolvido/, https://idblender.com/
 21. InnoForce, https://rekvizitai.vz.lt/en/company/uab_innoforce/, https://www.innoforcegroup.com/
-22. JK grupė, https://rekvizitai.vz.lt/company/jk_grupe/,  
+22. JK grupė, https://rekvizitai.vz.lt/company/jk_grupe/, http://salvio.montm.art:796/
 23. Kabinpa cyber security, https://rekvizitai.vz.lt/en/company/kabinpa_cyber_security_mb/, https://www.kabinpa.lt/
 24. Netspecto, https://rekvizitai.vz.lt/en/company/netspecto/, https://www.netspecto.lt/
 25. NOD Baltic, https://rekvizitai.vz.lt/en/company/nod_baltic/, https://nodbaltic.com/
