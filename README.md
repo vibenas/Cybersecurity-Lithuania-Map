@@ -69,7 +69,7 @@ If your organisation would like to be mentioned or you know other cybersecurity 
 
 *	**Foreign ownership**
 1. Advantio, https://rekvizitai.vz.lt/en/company/advantio_lt/, https://www.advantio.com/
-2. advisense, https://rekvizitai.vz.lt/en/company/transcendent_group_baltics/, https://advisense.com/
+2. Advisense, https://rekvizitai.vz.lt/en/company/transcendent_group_baltics/, https://advisense.com/
 3. Atea, https://rekvizitai.vz.lt/en/company/atea/, https://www.atea.lt/
 4. ATOS, https://rekvizitai.vz.lt/en/company/bull_baltija/, https://atos.net/en/
 5. Bite, https://rekvizitai.vz.lt/en/company/bite_lietuva/, https://www.bite.lt/
