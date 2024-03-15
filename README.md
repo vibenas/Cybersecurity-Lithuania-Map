@@ -3,7 +3,7 @@ Map of Cybersecurity Sector in Lithuania
 
 The map is serving as listing and visualisation of organisations in cybersecurity sector in Lithuania.
 
-![Cybersecurity Lithuania Map 2023 12 29](/maps/2023-12-29_Cybersecurity_Lithuania_Map.jpg "Cybersecurity@Lithuania Map 2023 12 29")
+![Cybersecurity Lithuania Map 2024 04 15](/maps/2024-04-15_Cybersecurity_Lithuania_Map.jpg "Cybersecurity@Lithuania Map 2024 04 15")
 
 The map is compiled by [Vilius Benetis](https://www.linkedin.com/in/viliusbenetis/).
 
@@ -67,8 +67,9 @@ If your organisation would like to be mentioned or you know other cybersecurity 
 40. SolutionLab, https://rekvizitai.vz.lt/imone/solutionlab_production/, https://solutionlab.net/
 41. Surfshark, https://rekvizitai.vz.lt/en/company/netflow/, https://surfshark.com/
 42. Syntricks, https://rekvizitai.vz.lt/en/company/syntricks/, https://syntricks.com/
-43. WhiteBit, https://rekvizitai.vz.lt/en/company/whitebit/, https://whitebit.lt/
-44. WiperSoft, https://rekvizitai.vz.lt/en/company/wiper_software/, https://www.wipersoft.com/
+43. TrustGuru, https://rekvizitai.vz.lt/en/company/trustguru/, https://www.trustguru.lt/?l=en
+44. WhiteBit, https://rekvizitai.vz.lt/en/company/whitebit/, https://whitebit.lt/
+45. WiperSoft, https://rekvizitai.vz.lt/en/company/wiper_software/, https://www.wipersoft.com/
 
 *	**Foreign ownership**
 1. Advantio, https://rekvizitai.vz.lt/en/company/advantio_lt/, https://www.advantio.com/
@@ -89,23 +90,24 @@ If your organisation would like to be mentioned or you know other cybersecurity 
 16. IBM, https://rekvizitai.vz.lt/en/company/ibm_lietuva/, https://www.ibm.com
 17. KPMG Baltics, https://rekvizitai.vz.lt/en/company/kpmg_baltics/, http://www.kpmg.com
 18. Microsoft, https://rekvizitai.vz.lt/en/company/microsoft_lietuva/, http://www.microsoft.com
-19. Oracle, https://rekvizitai.vz.lt/en/company/oracle_east_central_europe_limited_filialas/, https://www.oracle.com 
-20. Palantir Technologies Lithuania, https://rekvizitai.vz.lt/en/company/palantir_technologies_lithuania/, https://www.palantir.com/ 
-21. Primend, https://rekvizitai.vz.lt/en/company/primend/, https://www.primend.lt/
-22. Proact, https://rekvizitai.vz.lt/en/company/proact_lietuva/, https://www.proact.eu/
-23. PricewaterhouseCoopers, https://rekvizitai.vz.lt/en/company/pricewaterhousecoopers/, https://www.pwc.com/lt
-24. Samsung Electronics Baltics, https://rekvizitai.vz.lt/en/company/samsung_electronics_lithuania/, https://docs.samsungknox.com/admin/whitepaper/kpe/samsung-knox.htm 
-25. Santa Monica Networks, https://rekvizitai.vz.lt/en/company/santa_monica_networks/, https://www.smn.lt/
-26. SAP, https://rekvizitai.vz.lt/en/company/sap_uab/, http://www.sap.com/lithuania/
-27. Skaylink, https://rekvizitai.vz.lt/en/company/uab_btt_group/, https://www.bttcloud.com/
-28. Silobreaker, https://www.linkedin.com/in/lukas-vaivuckas-224819111/, https://www.silobreaker.com/
-29. Squalio, https://rekvizitai.vz.lt/en/company/dpa_lietuva/, https://squalio.com/lt/
-30. Tele2, https://rekvizitai.vz.lt/en/company/tele2_uab/, https://tele2.lt/privatiems/interneto-apsauga/
-31. Telia, https://rekvizitai.vz.lt/en/company/teo_lt/, https://www.telia.lt/
-32. Terasky, https://rekvizitai.vz.lt/en/company/terasky_baltic/, https://www.terasky.com/
-33. TestDevLab, https://rekvizitai.vz.lt/en/company/testdevlab/, https://www.testdevlab.com/
-34. Trend Micro, https://www.linkedin.com/in/justinasval/, https://www.trendmicro.com/
-35. vArmour, https://rekvizitai.vz.lt/en/company/varmour_lithuania/, https://www.varmour.com/
+19. OIXIO, https://rekvizitai.vz.lt/en/company/oixio/, https://oixio.eu/lt/
+20. Oracle, https://rekvizitai.vz.lt/en/company/oracle_east_central_europe_limited_filialas/, https://www.oracle.com 
+21. Palantir Technologies Lithuania, https://rekvizitai.vz.lt/en/company/palantir_technologies_lithuania/, https://www.palantir.com/ 
+22. Primend, https://rekvizitai.vz.lt/en/company/primend/, https://www.primend.lt/
+23. Proact, https://rekvizitai.vz.lt/en/company/proact_lietuva/, https://www.proact.eu/
+24. PricewaterhouseCoopers, https://rekvizitai.vz.lt/en/company/pricewaterhousecoopers/, https://www.pwc.com/lt
+25. Samsung Electronics Baltics, https://rekvizitai.vz.lt/en/company/samsung_electronics_lithuania/, https://docs.samsungknox.com/admin/whitepaper/kpe/samsung-knox.htm 
+26. Santa Monica Networks, https://rekvizitai.vz.lt/en/company/santa_monica_networks/, https://www.smn.lt/
+27. SAP, https://rekvizitai.vz.lt/en/company/sap_uab/, http://www.sap.com/lithuania/
+28. Skaylink, https://rekvizitai.vz.lt/en/company/uab_btt_group/, https://www.bttcloud.com/
+29. Silobreaker, https://www.linkedin.com/in/lukas-vaivuckas-224819111/, https://www.silobreaker.com/
+30. Squalio, https://rekvizitai.vz.lt/en/company/dpa_lietuva/, https://squalio.com/lt/
+31. Tele2, https://rekvizitai.vz.lt/en/company/tele2_uab/, https://tele2.lt/privatiems/interneto-apsauga/
+32. Telia, https://rekvizitai.vz.lt/en/company/teo_lt/, https://www.telia.lt/
+33. Terasky, https://rekvizitai.vz.lt/en/company/terasky_baltic/, https://www.terasky.com/
+34. TestDevLab, https://rekvizitai.vz.lt/en/company/testdevlab/, https://www.testdevlab.com/
+35. Trend Micro, https://www.linkedin.com/in/justinasval/, https://www.trendmicro.com/
+36. vArmour, https://rekvizitai.vz.lt/en/company/varmour_lithuania/, https://www.varmour.com/
 
 ## 2. Distributors
 1. ACC Distribution, https://rekvizitai.vz.lt/en/company/acme_kompiuteriu_komponentai/, https://www.accdistribution.eu/
@@ -119,8 +121,8 @@ If your organisation would like to be mentioned or you know other cybersecurity 
 9. Exclusive Networks, https://www.linkedin.com/in/armandas-kenstavicius-83929443/, https://www.exclusive-networks.com/
 10. F9 distribution, https://rekvizitai.vz.lt/en/company/f9_distribution_baltic/, https://www.f9baltic.com/
 11. Hermitage Solutions, https://rekvizitai.vz.lt/en/company/hermitage_solutions/, https://www.hermitage.lt/
-12. Pedab, https://rekvizitai.vz.lt/en/company/pedab_lietuva/, https://www.pedab.com/
-14. TVG, https://rekvizitai.vz.lt/imone/tvg/, https://cloud.tvg.lt/
+12. PAX8, https://rekvizitai.vz.lt/imone/tvg/, https://www.pax8.com/en-eu/
+13. Pedab, https://rekvizitai.vz.lt/en/company/pedab_lietuva/, https://www.pedab.com/
 
 ## 3. Education & Research
 1. BKA, https://rekvizitai.vz.lt/en/company/uab_baltijos_kompiuteriu_akademija/, http://www.bka.lt/
