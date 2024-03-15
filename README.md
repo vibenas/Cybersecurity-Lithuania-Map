@@ -3,7 +3,7 @@ Map of Cybersecurity Sector in Lithuania
 
 The map is serving as listing and visualisation of organisations in cybersecurity sector in Lithuania.
 
-![Cybersecurity Lithuania Map 2024 04 15](/maps/2024-04-15_Cybersecurity_Lithuania_Map.jpg "Cybersecurity@Lithuania Map 2024 04 15")
+![Cybersecurity Lithuania Map 2024 03 15](/maps/2024-03-15_Cybersecurity_Lithuania_Map.jpg "Cybersecurity@Lithuania Map 2024 03 15")
 
 The map is compiled by [Vilius Benetis](https://www.linkedin.com/in/viliusbenetis/).
 
