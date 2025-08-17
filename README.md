@@ -3,7 +3,7 @@ Map of Cybersecurity Sector in Lithuania
 
 The map is serving as listing and visualisation of organisations in cybersecurity sector in Lithuania.
 
-![Cybersecurity Lithuania Map 2024-12-22](/maps/2024-12-22_Cybersecurity_Lithuania_Map.jpg "Cybersecurity@Lithuania Map 2024-12-22")
+![Cybersecurity Lithuania Map 2025-08-17](/maps/2025-08-17_Cybersecurity_Lithuania_Map.jpg "Cybersecurity@Lithuania Map 2025-08-17")
 
 The map is compiled by [Vilius Benetis](https://www.linkedin.com/in/viliusbenetis/).
 
@@ -30,55 +30,75 @@ If your organisation would like to be mentioned or you know other cybersecurity 
 2. Adwisery, https://rekvizitai.vz.lt/en/company/uab_best_business_solutions/, https://www.adwisery.eu/en/home/
 3. Ag cyber, https://rekvizitai.vz.lt/en/company/ag_cyber/, https://acyber.io/
 4. Albars, https://rekvizitai.vz.lt/en/company/albars/, http://www.albars.eu
-5. Atakos vektorius, https://rekvizitai.vz.lt/en/company/atakos_vektorius/, https://atakosvektorius.lt/
-6. Avedus, https://rekvizitai.vz.lt/en/company/avedus/, https://avedus.lt/
-7. Baltic Amadeus, https://rekvizitai.vz.lt/en/company/baltic_amadeus/, https://www.ba.lt/
-8. BPTI Cyber, https://rekvizitai.vz.lt/en/company/bpti_cyber/, https://www.bpti-cyber.com/ 
+5. Amber IT, https://rekvizitai.vz.lt/en/company/amberit/, https://amberit.lt/
+6. Atakos vektorius, https://rekvizitai.vz.lt/en/company/atakos_vektorius/, https://atakosvektorius.lt/
+7. Avedus, https://rekvizitai.vz.lt/en/company/avedus/, https://avedus.lt/
+8. Baltic Amadeus, https://rekvizitai.vz.lt/en/company/baltic_amadeus/, https://www.ba.lt/ 
 9. BGM, https://rekvizitai.vz.lt/en/company/b_g_m/, https://www.bgm.lt/
-10. Blue Bridge, https://rekvizitai.vz.lt/en/company/blue_bridge_msp/, https://www.bluebridge.lt/
-11. CheckIT, https://rekvizitai.vz.lt/en/company/checkit_baltic/, https://checkit.lt/
-12. Critical Security, https://rekvizitai.vz.lt/en/company/critical_security/, https://www.critical.lt/
-13. Cyberalert, https://rekvizitai.vz.lt/en/company/cyberalert/, https://www.cbrx.ai/
-14. Cybernews, https://rekvizitai.vz.lt/en/company/adtech_lt/, https://cybernews.com/
-15. Cyberspace24, https://rekvizitai.vz.lt/en/company/cyberspace24/, https://cyberspace24.eu/
-16. Cyber Upgrade, https://rekvizitai.vz.lt/en/company/cyber_upgrade/, https://cyberupgrade.net/
-17. Cyber&We, https://rekvizitai.vz.lt/en/company/cyber_we/, https://cyberwe.lt/ 
-18. DefSlate, https://rekvizitai.vz.lt/en/company/defslate_mb/, https://defslate.com/
-19. Deftools, https://rekvizitai.vz.lt/en/company/uab_deftools/, https://www.deftools.com/
-20. Devoro, https://rekvizitai.vz.lt/en/company/devoro/, https://www.devoro.com/
-21. DevSlate, https://rekvizitai.vz.lt/en/company/devslate_group/, https://devslate.com/
-22. Dolus Security, https://rekvizitai.vz.lt/en/company/dolus_security_mb/, https://dolussecurity.com/
-23. DPS Solutions, https://rekvizitai.vz.lt/en/company/duomenu_apsaugos_ir_saugumo_sprendimai/, https://dpssolutions.eu/
-24. Ecomwall, https://rekvizitai.vz.lt/en/company/ecomwall_europe/, https://www.ecomwall.com/
-25. Emplos, https://rekvizitai.vz.lt/en/company/emplos/, https://emplos.lt/
-26. Esec, https://rekvizitai.vz.lt/en/company/kibernetinis_saugumas/, https://tyrimai.esec.lt/
-27. Fortevento, https://rekvizitai.vz.lt/en/company/uab_fortevento/, https://www.fortevento.lt/
-28. Hackdeflect, https://rekvizitai.vz.lt/en/company/sidabrinis_kiras/, https://www.hackdeflect.com/
-29. idBlender, https://rekvizitai.vz.lt/en/company/resolvido/, https://idblender.com/
-30. InnoForce, https://rekvizitai.vz.lt/en/company/uab_innoforce/, https://www.innoforcegroup.com/
-31. JK grupė, https://rekvizitai.vz.lt/company/jk_grupe/, http://salvio.montm.art:796/
-32. Kabinpa cyber security, https://rekvizitai.vz.lt/en/company/kabinpa_cyber_security_mb/, https://www.kabinpa.lt/
-33. Netspecto, https://rekvizitai.vz.lt/en/company/netspecto/, https://www.netspecto.lt/
-34. NOD Baltic, https://rekvizitai.vz.lt/en/company/nod_baltic/, https://nodbaltic.com/
-35. Nord Security, https://rekvizitai.vz.lt/en/company/360_it/, https://nordsecurity.com/
-36. NOVIAN, https://rekvizitai.vz.lt/en/company/baip_baltic_amadeus_infrastrukturos_paslaugos/, https://novian.io/services-and-solutions/cybersecurity/
-37. NRD Cyber Security, https://rekvizitai.vz.lt/en/company/nrd_cs/, https://www.nrdcs.lt/
-38. Oxylabs, https://rekvizitai.vz.lt/en/company/teso_lt/, https://oxylabs.io/
-39. Passcamp, https://rekvizitai.vz.lt/en/company/passcamp/, https://www.passcamp.com/
-40. Predicto, https://rekvizitai.vz.lt/en/company/predicto/, https://predicto.lt/
-41. Privacy Partners, https://rekvizitai.vz.lt/en/company/privacy_partners/, https://www.privacypartners.lt/
-42. Saugus Kodas, https://rekvizitai.vz.lt/en/company/saugus_kodas/, https://sauguskodas.lt/en/
-43. Secology, https://rekvizitai.vz.lt/en/company/secology/, https://secology.eu/
-44. Solisec, https://rekvizitai.vz.lt/en/company/solisec/, https://solisec.com
-45. SolutionLab, https://rekvizitai.vz.lt/imone/solutionlab_production/, https://solutionlab.net/
-46. Surfshark, https://rekvizitai.vz.lt/en/company/netflow/, https://surfshark.com/
-47. Syntricks, https://rekvizitai.vz.lt/en/company/syntricks/, https://syntricks.com/
-48. Trausta, https://rekvizitai.vz.lt/en/company/trausta/, https://trausta.com/
-49. TrustGuru, https://rekvizitai.vz.lt/en/company/trustguru/, https://www.trustguru.lt/?l=en
-50. WhiteBit, https://rekvizitai.vz.lt/en/company/whitebit/, https://whitebit.lt/
-51. WhiteBridge, https://rekvizitai.vz.lt/en/company/whitebridge_ai/, https://whitebridge.ai/use-case/security
-52. WiperSoft, https://rekvizitai.vz.lt/en/company/wiper_software/, https://www.wipersoft.com/
-53. Wsecurit, https://rekvizitai.vz.lt/en/company/vycio_investicijos/, https://www.facebook.com/WsecIT
+10. Binary Raid, https://rekvizitai.vz.lt/en/company/binary_raid/, https://binaryraid.com/#
+11. Blue Bridge, https://rekvizitai.vz.lt/en/company/blue_bridge_msp/, https://www.bluebridge.lt/
+12. Buck4Bug, https://rekvizitai.vz.lt/en/company/buck4bug/, https://www.buck4bug.com  
+13. Cetus, https://rekvizitai.vz.lt/en/company/cetus/, http://www.cetus.lt/pub/index/en
+14. CheckIT, https://rekvizitai.vz.lt/en/company/checkit_baltic/, https://checkit.lt/
+15. Critical Security, https://rekvizitai.vz.lt/en/company/critical_security/, https://www.critical.lt/
+16. CBRX, https://rekvizitai.vz.lt/en/company/cyberalert/, https://www.cbrx.ai/
+17. Cyberdome, https://rekvizitai.vz.lt/en/company/cyberdome/, https://saugustinklas.lt/
+18. Cybernews, https://rekvizitai.vz.lt/en/company/adtech_lt/, https://cybernews.com/
+19. Cyberspace24, https://rekvizitai.vz.lt/en/company/cyberspace24/, https://cyberspace24.eu/
+20. Cyber Upgrade, https://rekvizitai.vz.lt/en/company/cyber_upgrade/, https://cyberupgrade.net/
+21. Cyber&We, https://rekvizitai.vz.lt/en/company/cyber_we/, https://cyberwe.lt/ 
+22. DefSlate, https://rekvizitai.vz.lt/en/company/defslate_mb/, https://defslate.com/
+23. Deftools, https://rekvizitai.vz.lt/en/company/uab_deftools/, https://www.deftools.com/
+24. Devoro, https://rekvizitai.vz.lt/en/company/devoro/, https://www.devoro.com/
+25. DevSlate, https://rekvizitai.vz.lt/en/company/devslate_group/, https://devslate.com/
+26. Dolus Security, https://rekvizitai.vz.lt/en/company/dolus_security_mb/, https://dolussecurity.com/
+28. DPS Solutions, https://rekvizitai.vz.lt/en/company/duomenu_apsaugos_ir_saugumo_sprendimai/, https://dpssolutions.eu/
+29. Ecomwall, https://rekvizitai.vz.lt/en/company/ecomwall_europe/, https://www.ecomwall.com/
+30. Emplos, https://rekvizitai.vz.lt/en/company/emplos/, https://emplos.lt/
+31. Esec, https://rekvizitai.vz.lt/en/company/kibernetinis_saugumas/, https://tyrimai.esec.lt/
+32. Fast Traffic, https://rekvizitai.vz.lt/en/company/fast_traffic/, https://www.fasttraffic.lt/
+33. Fortevento, https://rekvizitai.vz.lt/en/company/uab_fortevento/, https://www.fortevento.lt/
+34. GoIT, https://rekvizitai.vz.lt/en/company/termograma/, https://www.goit.lt/services/saugumo-sprendimai
+35. Hackdeflect, https://rekvizitai.vz.lt/en/company/sidabrinis_kiras/, https://www.hackdeflect.com/
+36. idBlender, https://rekvizitai.vz.lt/en/company/resolvido/, https://idblender.com/
+37. Informacijos saugumo centras, https://rekvizitai.vz.lt/en/company/informacijos_saugumo_centras/, https://infosec.mobi/
+38. InnoForce, https://rekvizitai.vz.lt/en/company/uab_innoforce/, https://www.innoforcegroup.com/
+39. Invosec, https://rekvizitai.vz.lt/en/company/invosec/, https://invosec.lt/contact/
+40. Itrusta, https://rekvizitai.vz.lt/en/company/itrusta/, https://itrusta.lt/kibernetinis-saugumas/
+41. IT sąsaja, https://rekvizitai.vz.lt/en/company/ii_it_sasaja/, https://itsasaja.lt/eng/it-paslaugos/#itsaugumas
+42. IT skyrius, https://rekvizitai.vz.lt/en/company/it_skyrius/, https://www.itskyrius.lt/
+43. JK grupė, https://rekvizitai.vz.lt/company/jk_grupe/, http://salvio.montm.art:796/
+44. Kabinpa cyber security, https://rekvizitai.vz.lt/en/company/kabinpa_cyber_security_mb/, https://www.kabinpa.lt/
+45. Kibernetinis spektras, https://rekvizitai.vz.lt/en/company/sokoledas/, https://cyberspektras.lt/
+46. Leakintel, https://rekvizitai.vz.lt/en/company/transportation_era/, https://leakintel.io/
+47. Mediafon Technology, https://rekvizitai.vz.lt/en/company/mediafon_id/ https://mediafon.tech/
+48. Netspecto, https://rekvizitai.vz.lt/en/company/netspecto/, https://www.netspecto.lt/
+49. NOD Baltic, https://rekvizitai.vz.lt/en/company/nod_baltic/, https://nodbaltic.com/
+50. Nord Security, https://rekvizitai.vz.lt/en/company/360_it/, https://nordsecurity.com/
+51. NOVIAN, https://rekvizitai.vz.lt/en/company/baip_baltic_amadeus_infrastrukturos_paslaugos/, https://novian.io/services-and-solutions/cybersecurity/
+52. NRD Cyber Security, https://rekvizitai.vz.lt/en/company/nrd_cs/, https://www.nrdcs.lt/
+53. Oxylabs, https://rekvizitai.vz.lt/en/company/teso_lt/, https://oxylabs.io/
+54. Passcamp, https://rekvizitai.vz.lt/en/company/passcamp/, https://www.passcamp.com/
+55. Predicto, https://rekvizitai.vz.lt/en/company/predicto/, https://predicto.lt/
+56. Privacy Partners, https://rekvizitai.vz.lt/en/company/privacy_partners/, https://www.privacypartners.lt/
+57. QSCERT, https://rekvizitai.vz.lt/en/company/qscert/, https://qscert.lt/iso-iec-27001-information-security-management-system/?lang=en
+58. Saugus Kodas, https://rekvizitai.vz.lt/en/company/saugus_kodas/, https://sauguskodas.lt/en/
+59. Secology, https://rekvizitai.vz.lt/en/company/secology/, https://secology.eu/
+60. Sertika, https://rekvizitai.vz.lt/en/company/sertifikavimo_centras/, https://www.sertika.lt/it-security-iso-27001/
+61. Simplea, https://rekvizitai.vz.lt/en/company/uab_simplea/, https://www.simplea.lt/it-paslaugos/bdargdpr-dokumentacija/
+62. Solidi Apsauga, https://rekvizitai.vz.lt/en/company/solidi_apsauga/, https://www.duomenu-apsauga.lt/
+63. Solisec, https://rekvizitai.vz.lt/en/company/solisec/, https://solisec.com
+64. SolutionLab, https://rekvizitai.vz.lt/en/company/solutionlab_production/, https://solutionlab.net/
+65. Spy Warrior, https://rekvizitai.vz.lt/en/company/kibernetinio_saugumo_sistemos/, https://www.spy-warrior.com/
+66. Surfshark, https://rekvizitai.vz.lt/en/company/netflow/, https://surfshark.com/
+67. Syntricks, https://rekvizitai.vz.lt/en/company/syntricks/, https://syntricks.com/
+68. Trausta, https://rekvizitai.vz.lt/en/company/trausta/, https://trausta.com/
+69. TrustGuru, https://rekvizitai.vz.lt/en/company/trustguru/, https://www.trustguru.lt/?l=en
+70. Uolektis, https://rekvizitai.vz.lt/en/company/uolektis/, http://www.uolektis.lt/lt/paslaugos/lst-isoiec-27001-2013
+71. V Formation, https://rekvizitai.vz.lt/en/company/dk_cyber_solutions/, https://v-formation.io/
+72. WhiteBridge, https://rekvizitai.vz.lt/en/company/whitebridge_ai/, https://whitebridge.ai/use-case/security
+73. WiperSoft, https://rekvizitai.vz.lt/en/company/wiper_software/, https://www.wipersoft.com/
+74. Wsecurit, https://rekvizitai.vz.lt/en/company/vycio_investicijos/, https://www.facebook.com/WsecIT
 
 *	**Foreign ownership**
 1. Advantio, https://rekvizitai.vz.lt/en/company/advantio_lt/, https://www.advantio.com/
@@ -86,37 +106,43 @@ If your organisation would like to be mentioned or you know other cybersecurity 
 3. Atea, https://rekvizitai.vz.lt/en/company/atea/, https://www.atea.lt/
 4. ATOS, https://rekvizitai.vz.lt/en/company/bull_baltija/, https://atos.net/en/
 5. Bite, https://rekvizitai.vz.lt/en/company/bite_lietuva/, https://www.bite.lt/
-6. Centric, https://rekvizitai.vz.lt/imone/centric_it_solutions_lithuania/, http://www.centric.eu
-7. Check Point Software Technologies, https://www.linkedin.com/in/giedriusma/, https://www.checkpoint.com/
-8. Cognizant, https://rekvizitai.vz.lt/en/company/cognizant/, https://www.cognizant.com/us/en/services/cybersecurity-services
-9. CUJO AI, https://rekvizitai.vz.lt/en/company/cujo_baltic/, https://cujo.com/
-10. Deloitte Lietuva, https://rekvizitai.vz.lt/en/company/deloitte_lietuva/, https://www.deloitte.lt/
-11. devoteam, https://rekvizitai.vz.lt/en/company/cloudeon/, https://www.devoteam.com/
-12. Digital.ai, https://rekvizitai.vz.lt/en/company/arxan_technologies/, https://digital.ai/
-13. Ernst & Young Baltic, https://rekvizitai.vz.lt/en/company/ernst_young_baltic/, https://www.ey.com/en_lt
-14. Fortinet, https://www.linkedin.com/in/vingrys/, https://www.fortinet.com/
-15. HWG Cyber Security, https://rekvizitai.vz.lt/en/company/hwg_cyber_security/, https://www.hwg.it
-16. IBM, https://rekvizitai.vz.lt/en/company/ibm_lietuva/, https://www.ibm.com
-17. KPMG Baltics, https://rekvizitai.vz.lt/en/company/kpmg_baltics/, http://www.kpmg.com
-18. Microsoft, https://rekvizitai.vz.lt/en/company/microsoft_lietuva/, http://www.microsoft.com
-19. OIXIO, https://rekvizitai.vz.lt/en/company/oixio/, https://oixio.eu/lt/
-20. Oracle, https://rekvizitai.vz.lt/en/company/oracle_east_central_europe_limited_filialas/, https://www.oracle.com 
-21. Palantir Technologies Lithuania, https://rekvizitai.vz.lt/en/company/palantir_technologies_lithuania/, https://www.palantir.com/ 
-22. Primend, https://rekvizitai.vz.lt/en/company/primend/, https://www.primend.lt/
-23. Proact, https://rekvizitai.vz.lt/en/company/proact_lietuva/, https://www.proact.eu/
-24. PricewaterhouseCoopers, https://rekvizitai.vz.lt/en/company/pricewaterhousecoopers/, https://www.pwc.com/lt
-25. Samsung Electronics Baltics, https://rekvizitai.vz.lt/en/company/samsung_electronics_lithuania/, https://docs.samsungknox.com/admin/whitepaper/kpe/samsung-knox.htm 
-26. Santa Monica Networks, https://rekvizitai.vz.lt/en/company/santa_monica_networks/, https://www.smn.lt/
-27. SAP, https://rekvizitai.vz.lt/en/company/sap_uab/, http://www.sap.com/lithuania/
-28. Skaylink, https://rekvizitai.vz.lt/en/company/uab_btt_group/, https://www.bttcloud.com/
-29. Silobreaker, https://www.linkedin.com/in/lukas-vaivuckas-224819111/, https://www.silobreaker.com/
-30. Squalio, https://rekvizitai.vz.lt/en/company/dpa_lietuva/, https://squalio.com/lt/
-31. Tele2, https://rekvizitai.vz.lt/en/company/tele2_uab/, https://tele2.lt/privatiems/interneto-apsauga/
-32. Telia, https://rekvizitai.vz.lt/en/company/teo_lt/, https://www.telia.lt/
-33. Terasky, https://rekvizitai.vz.lt/en/company/terasky_baltic/, https://www.terasky.com/
-34. TestDevLab, https://rekvizitai.vz.lt/en/company/testdevlab/, https://www.testdevlab.com/
-35. Trend Micro, https://www.linkedin.com/in/justinasval/, https://www.trendmicro.com/
-36. vArmour, https://rekvizitai.vz.lt/en/company/varmour_lithuania/, https://www.varmour.com/
+6. Bureau Veritas, https://rekvizitai.vz.lt/en/company/bureau_veritas_lit/, https://www.bureauveritas.lt/lt/paslaugos/mokymai/informacijos-sauga
+7. Centric, https://rekvizitai.vz.lt/en/company/centric_it_solutions_lithuania/, http://www.centric.eu
+8. Check Point Software Technologies, https://www.linkedin.com/in/giedriusma/, https://www.checkpoint.com/
+9. Cognizant, https://rekvizitai.vz.lt/en/company/cognizant/, https://www.cognizant.com/us/en/services/cybersecurity-services
+10. Cube Security Europe, https://rekvizitai.vz.lt/en/company/cube_security_europe/, https://www.cube3.ai/
+11. CUJO AI, https://rekvizitai.vz.lt/en/company/cujo_baltic/, https://cujo.com/
+12. Deloitte Lietuva, https://rekvizitai.vz.lt/en/company/deloitte_lietuva/, https://www.deloitte.lt/
+13. devoteam, https://rekvizitai.vz.lt/en/company/cloudeon/, https://www.devoteam.com/
+14. Digital.ai, https://rekvizitai.vz.lt/en/company/arxan_technologies/, https://digital.ai/
+15. Ecovis, https://rekvizitai.vz.lt/en/company/ecovis_advisory_lt/, https://ecovis.lt/duomenu-apsauga/
+16. Ernst & Young Baltic, https://rekvizitai.vz.lt/en/company/ernst_young_baltic/, https://www.ey.com/en_lt
+17. Fortinet, https://www.linkedin.com/in/vingrys/, https://www.fortinet.com/
+18. HWG Cyber Security, https://rekvizitai.vz.lt/en/company/hwg_cyber_security/, https://www.hwg.it
+19. IBM, https://rekvizitai.vz.lt/en/company/ibm_lietuva/, https://www.ibm.com
+20. KPMG Baltics, https://rekvizitai.vz.lt/en/company/kpmg_baltics/, http://www.kpmg.com
+21. Microsoft, https://rekvizitai.vz.lt/en/company/microsoft_lietuva/, http://www.microsoft.com
+22. NFQ, https://rekvizitai.vz.lt/en/company/nfq-technologies/, https://www.nfq.com/lt/paslaugos/konsultacines-paslaugos/kibernetinis-saugumas
+23. OIXIO, https://rekvizitai.vz.lt/en/company/oixio/, https://oixio.eu/lt/
+24. OpSec Security, https://rekvizitai.vz.lt/en/company/uab_dtecnet/, https://www.opsecsecurity.com/  
+25. Oracle, https://rekvizitai.vz.lt/en/company/oracle_east_central_europe_limited_filialas/, https://www.oracle.com 
+26. Palantir Technologies Lithuania, https://rekvizitai.vz.lt/en/company/palantir_technologies_lithuania/, https://www.palantir.com/ 
+27. Primend, https://rekvizitai.vz.lt/en/company/primend/, https://www.primend.lt/
+28. Proact, https://rekvizitai.vz.lt/en/company/proact_lietuva/, https://www.proact.eu/
+29. PricewaterhouseCoopers, https://rekvizitai.vz.lt/en/company/pricewaterhousecoopers/, https://www.pwc.com/lt
+30. Samsung Electronics Baltics, https://rekvizitai.vz.lt/en/company/samsung_electronics_lithuania/, https://docs.samsungknox.com/admin/whitepaper/kpe/samsung-knox.htm 
+31. Santa Monica Networks, https://rekvizitai.vz.lt/en/company/santa_monica_networks/, https://www.smn.lt/
+32. SAP, https://rekvizitai.vz.lt/en/company/sap_uab/, http://www.sap.com/lithuania/
+33. Skaylink, https://rekvizitai.vz.lt/en/company/uab_btt_group/, https://www.bttcloud.com/
+34. Silobreaker, https://www.linkedin.com/in/lukas-vaivuckas-224819111/, https://www.silobreaker.com/
+35. Tele2, https://rekvizitai.vz.lt/en/company/tele2_uab/, https://tele2.lt/privatiems/interneto-apsauga/
+36. Telia, https://rekvizitai.vz.lt/en/company/teo_lt/, https://www.telia.lt/
+37. Terasky, https://rekvizitai.vz.lt/en/company/terasky_baltic/, https://www.terasky.com/
+38. TestDevLab, https://rekvizitai.vz.lt/en/company/testdevlab/, https://www.testdevlab.com/
+39. Trend Micro, https://www.linkedin.com/in/justinasval/, https://www.trendmicro.com/
+40. TUV Uolektis, https://rekvizitai.vz.lt/en/company/tuv_uolektis_uab/, https://tuvuolektis.lt/iso-27001
+41. vArmour, https://rekvizitai.vz.lt/en/company/varmour_lithuania/, https://www.varmour.com/
+42. WhiteBit, https://rekvizitai.vz.lt/en/company/whitebit/, https://whitebit.lt/
 
 ## 2. Distributors
 1. ACC Distribution, https://rekvizitai.vz.lt/en/company/acme_kompiuteriu_komponentai/, https://www.accdistribution.eu/
@@ -130,7 +156,7 @@ If your organisation would like to be mentioned or you know other cybersecurity 
 9. Exclusive Networks, https://www.linkedin.com/in/armandas-kenstavicius-83929443/, https://www.exclusive-networks.com/
 10. F9 distribution, https://rekvizitai.vz.lt/en/company/f9_distribution_baltic/, https://www.f9baltic.com/
 11. Hermitage Solutions, https://rekvizitai.vz.lt/en/company/hermitage_solutions/, https://www.hermitage.lt/
-12. PAX8, https://rekvizitai.vz.lt/imone/tvg/, https://www.pax8.com/en-eu/
+12. PAX8, https://rekvizitai.vz.lt/en/company/tvg/, https://www.pax8.com/en-eu/
 13. Pedab, https://rekvizitai.vz.lt/en/company/pedab_lietuva/, https://www.pedab.com/
 
 ## 3. Education & Research
@@ -141,27 +167,32 @@ If your organisation would like to be mentioned or you know other cybersecurity 
 5. CyberGym, https://rekvizitai.vz.lt/en/company/terasky_baltic/, https://www.cybergym.com/ 
 6. Data Miner, https://rekvizitai.vz.lt/en/company/uab_data_miner/, http://www.dataminer.lt/
 7. Draugiškas Internetas, https://rekvizitai.vz.lt/en/company/nacionaline_svietimo_agentura/, https://www.draugiskasinternetas.lt/
-8. Infobalt, https://rekvizitai.vz.lt/en/company/infobalt_imoniu_asociacija/, https://infobalt.lt/
-9. ISACA Lietuva, https://rekvizitai.vz.lt/en/company/informaciniu_sistemu_audito_ir_valdymo_asociacija/, https://www.isaca.lt
-10. IT akademija, https://rekvizitai.vz.lt/en/company/it_akademija/, https://www.itakademija.lt/
-11. Kibernetinio saugumo ekspertų asociacija, https://rekvizitai.vz.lt/en/company/kibernetinio_saugumo_ekspertu_asociacija/, https://ksea.lt/
-12. Kibernetinis Labirintas Podcast, https://www.linkedin.com/in/agnemb/, https://www.youtube.com/@KibernetinisLabirintas
-13. KTU, https://rekvizitai.vz.lt/en/company/kauno_technologijos_universitetas/, https://ktu.edu/
-14. Langas į Ateitį, https://rekvizitai.vz.lt/en/company/lia_asociacija/, https://www.langasiateiti.lt/
-15. L3CE, https://rekvizitai.vz.lt/en/company/lietuvos_kibernetiniu_nusikaltimu_kompetenciju_ir_tyrimu_centras/, https://www.l3ce.eu/
-16. LCC International University, https://rekvizitai.vz.lt/en/company/lcc_tarptautinis_universitetas/, https://lcc.lt/
-17. LTEC, https://rekvizitai.vz.lt/en/company/lietuvos_teismo_ekspertizes_centras/, https://ltec.lrv.lt/
-18. MRU, https://rekvizitai.vz.lt/en/company/mykolo_romerio_universitetas/, https://www.mruni.eu/
-19. North European Cybersecurity Cluster (NECC), https://rekvizitai.vz.lt/en/company/nrd_cs/, https://necc.network/
-20. OWASP Vilnius, https://www.linkedin.com/in/dominykas-seikis-5b2a4975/, https://owasp.org/www-chapter-vilnius/
-21. Responsu, https://rekvizitai.vz.lt/en/company/hermitage_solutions/, https://www.responsu.com/, https://www.cybersecurityacademy.lt/ 
-22. TOBULEK.INFO, https://rekvizitai.vz.lt/en/company/vsi_kompetenciju_tobulinimo_centras/, https://tobulek.info/kursai/kibernetinio-saugumo-mokymai/
-23. Towi, https://rekvizitai.vz.lt/en/company/towi/, http://www.towi.lt/
-24. VIKO, https://rekvizitai.vz.lt/en/company/vilniaus_kolegija/, https://www.viko.lt/
-25. Vilnius Coding School, https://rekvizitai.vz.lt/en/company/programavimo_mokykla/, https://www.vilniuscoding.lt/
-26. Vilnius Tech, https://rekvizitai.vz.lt/en/company/vilniaus_gedimino_technikos_universitetas/, https://vilniustech.lt/
-27. VU, https://rekvizitai.vz.lt/en/company/vilniaus_universitetas/, https://www.vu.lt/
-28. Women4Cyber, https://www.linkedin.com/in/zukauskiene/, https://women4cyber.eu/roadmap-of-actions/women4cyber-chapters
+8. EDON, https://rekvizitai.vz.lt/en/company/education_on/, https://www.edon.lt/kursai/kibernetinio-saugumo-ir-riziku-valdymas
+9. Infobalt, https://rekvizitai.vz.lt/en/company/infobalt_imoniu_asociacija/, https://infobalt.lt/
+10. ISACA Lietuva, https://rekvizitai.vz.lt/en/company/informaciniu_sistemu_audito_ir_valdymo_asociacija/, https://www.isaca.lt
+11. IT akademija, https://rekvizitai.vz.lt/en/company/it_akademija/, https://www.itakademija.lt/
+12. Kibernetinio saugumo ekspertų asociacija, https://rekvizitai.vz.lt/en/company/kibernetinio_saugumo_ekspertu_asociacija/, https://ksea.lt/
+13. Kibernetinis Labirintas Podcast, https://www.linkedin.com/in/agnemb/, https://www.youtube.com/@KibernetinisLabirintas
+14. KTU, https://rekvizitai.vz.lt/en/company/kauno_technologijos_universitetas/, https://ktu.edu/
+15. Langas į Ateitį, https://rekvizitai.vz.lt/en/company/lia_asociacija/, https://www.langasiateiti.lt/
+16. L3CE, https://rekvizitai.vz.lt/en/company/lietuvos_kibernetiniu_nusikaltimu_kompetenciju_ir_tyrimu_centras/, https://www.l3ce.eu/
+17. LCC International University, https://rekvizitai.vz.lt/en/company/lcc_tarptautinis_universitetas/, https://lcc.lt/
+18. LTEC, https://rekvizitai.vz.lt/en/company/lietuvos_teismo_ekspertizes_centras/, https://ltec.lrv.lt/
+19. Mokymų gidas, https://rekvizitai.vz.lt/en/company/mokymu_gidas/, https://mokymugidas.lt/it-kursai/kibernetinis-saugumas
+20. Mokymų klubas, https://rekvizitai.vz.lt/en/company/uab_9bit/, https://mokymuklubas.lt/mokymai/?yith_wcan=1&product_cat=bdar-mokymai
+21. MRU, https://rekvizitai.vz.lt/en/company/mykolo_romerio_universitetas/, https://www.mruni.eu/
+22. Noriu mokytis, https://rekvizitai.vz.lt/en/company/vsi_noriu_mokytis/, https://noriumokytis.lt/imonems/it-saugumo-pagrindai/
+23. North European Cybersecurity Cluster (NECC), https://rekvizitai.vz.lt/en/company/nrd_cs/, https://necc.network/
+24. OWASP Vilnius, https://www.linkedin.com/in/dominykas-seikis-5b2a4975/, https://owasp.org/www-chapter-vilnius/
+25. Responsu, https://rekvizitai.vz.lt/en/company/hermitage_solutions/, https://www.responsu.com/, https://www.cybersecurityacademy.lt/ 
+26. TOBULEK.INFO, https://rekvizitai.vz.lt/en/company/vsi_kompetenciju_tobulinimo_centras/, https://tobulek.info/kursai/kibernetinio-saugumo-mokymai/
+27. Towi, https://rekvizitai.vz.lt/en/company/towi/, http://www.towi.lt/
+28. VIKO, https://rekvizitai.vz.lt/en/company/vilniaus_kolegija/, https://www.viko.lt/
+29. Vilnius Coding School, https://rekvizitai.vz.lt/en/company/programavimo_mokykla/, https://www.vilniuscoding.lt/
+30. Vilnius Tech, https://rekvizitai.vz.lt/en/company/vilniaus_gedimino_technikos_universitetas/, https://vilniustech.lt/
+31. VU, https://rekvizitai.vz.lt/en/company/vilniaus_universitetas/, https://www.vu.lt/
+32. Women4Cyber, https://www.linkedin.com/in/zukauskiene/, https://women4cyber.eu/roadmap-of-actions/women4cyber-chapters
+
 
 ## 4. National Capabilities:
 1. Cyber Rapid Response Teams and Mutual Assistance in Cyber Security (CRRTs), PESCO project, https://rekvizitai.vz.lt/en/company/lietuvos_respublikos_krasto_apsaugos_ministerija/, https://crrts.eu/
@@ -169,12 +200,13 @@ If your organisation would like to be mentioned or you know other cybersecurity 
 3. Innovation Agency, https://rekvizitai.vz.lt/en/company/inovaciju_agentura_vsi/, https://innovationagency.lt/
 4. KVTC-CERT, https://rekvizitai.vz.lt/en/company/infostruktura/, https://kvtc.lrv.lt/lt/veiklos-sritys/kvtc-cert
 5. Lithuanian Criminal Police Bureau, https://rekvizitai.vz.lt/en/company/lietuvos_kriminalines_policijos_biuras/, https://policija.lrv.lt/
-6. LITNET CERT, https://rekvizitai.vz.lt/en/company/kauno_technologijos_universitetas/, https://litnet.lt/
-7. "Lizdeika" Lithuanian Riflemen's Union Cybersecurity Unit, https://rekvizitai.vz.lt/en/company/lietuvos_sauliu_sajunga/, https://www.lizdeika.net/en/
-8. NKSC, https://rekvizitai.vz.lt/en/company/vyriausybiniu_rysiu_centras_prie_lietuvos_respublikos_valstybes_saugumo_departamento/, https://www.nksc.lt/
-9. Regional Cyber Defence Center, https://rekvizitai.vz.lt/en/company/vyriausybiniu_rysiu_centras_prie_lietuvos_respublikos_valstybes_saugumo_departamento/, https://www.nksc.lt/en/structure.html
-10. RIS Batallion, https://rekvizitai.vz.lt/en/company/lietuvos_kariuomenes_rysiu_ir_informaciniu_sistemu_batalionas/, https://kariuomene.lt/pajegos-ir-kariniai-vienetai/kiti-pajegumai/lde-kristupo-radvilos-perkuno-ris-batalionas/22951
-11. State Data Protection Inspectorate, https://rekvizitai.vz.lt/en/company/valstybine_duomenu_apsaugos_inspekcija/, https://vdai.lrv.lt/
+6. Lithuanian Cyberdefence Board, https://rekvizitai.vz.lt/en/company/lietuvos_kariuomenes_kibernetines_gynybos_valdyba/, https://www.kariuomene.lt/pajegos-ir-kariniai-vienetai/kiti-pajegumai/kibernetines-gynybos-valdyba/26536 
+7. LITNET CERT, https://rekvizitai.vz.lt/en/company/kauno_technologijos_universitetas/, https://litnet.lt/
+8. "Lizdeika" Lithuanian Riflemen's Union Cybersecurity Unit, https://rekvizitai.vz.lt/en/company/lietuvos_sauliu_sajunga/, https://www.lizdeika.net/en/
+9. NKSC, https://rekvizitai.vz.lt/en/company/vyriausybiniu_rysiu_centras_prie_lietuvos_respublikos_valstybes_saugumo_departamento/, https://www.nksc.lt/
+10. Regional Cyber Defence Center, https://rekvizitai.vz.lt/en/company/vyriausybiniu_rysiu_centras_prie_lietuvos_respublikos_valstybes_saugumo_departamento/, https://www.nksc.lt/en/structure.html
+11. RIS Batallion, https://rekvizitai.vz.lt/en/company/lietuvos_kariuomenes_rysiu_ir_informaciniu_sistemu_batalionas/, https://kariuomene.lt/pajegos-ir-kariniai-vienetai/kiti-pajegumai/lde-kristupo-radvilos-perkuno-ris-batalionas/22951
+12. State Data Protection Inspectorate, https://rekvizitai.vz.lt/en/company/valstybine_duomenu_apsaugos_inspekcija/, https://vdai.lrv.lt/
 
 
 ## Previous Versions
