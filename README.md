@@ -194,11 +194,11 @@ If your organisation would like to be mentioned or you know other cybersecurity 
 26. Responsu, https://rekvizitai.vz.lt/en/company/hermitage_solutions/, https://www.responsu.com/, https://www.cybersecurityacademy.lt/ 
 27. TOBULEK.INFO, https://rekvizitai.vz.lt/en/company/vsi_kompetenciju_tobulinimo_centras/, https://tobulek.info/kursai/kibernetinio-saugumo-mokymai/
 28. Towi, https://rekvizitai.vz.lt/en/company/towi/, http://www.towi.lt/
-29. VIKO, https://rekvizitai.vz.lt/en/company/vilniaus_kolegija/, https://www.viko.lt/
+29. Vilniaus Kolegija VIKO, https://rekvizitai.vz.lt/en/company/vilniaus_kolegija/, https://www.viko.lt/
 30. Vilnius Coding School, https://rekvizitai.vz.lt/en/company/programavimo_mokykla/, https://www.vilniuscoding.lt/
 31. Vilnius Tech, https://rekvizitai.vz.lt/en/company/vilniaus_gedimino_technikos_universitetas/, https://vilniustech.lt/
-32. VU, https://rekvizitai.vz.lt/en/company/vilniaus_universitetas/, https://www.vu.lt/
-33. Women4Cyber, https://www.linkedin.com/in/zukauskiene/, https://women4cyber.eu/roadmap-of-actions/women4cyber-chapters
+33. VU, https://rekvizitai.vz.lt/en/company/vilniaus_universitetas/, https://www.vu.lt/
+34. Women4Cyber, https://www.linkedin.com/in/zukauskiene/, https://women4cyber.eu/roadmap-of-actions/women4cyber-chapters
 
 
 ## 4. National Capabilities:
