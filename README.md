@@ -174,7 +174,7 @@ If your organisation would like to be mentioned or you know other cybersecurity 
 1. Baltijos technologijų institutas, https://rekvizitai.vz.lt/en/company/ingenium_balticum/, https://bit.lt/programos/kibernetinis-saugumas/
 2. BKA, https://rekvizitai.vz.lt/en/company/uab_baltijos_kompiuteriu_akademija/, http://www.bka.lt/
 3. BPTI, https://rekvizitai.vz.lt/en/company/baltijos_pazangiu_technologiju_institutas/, https://www.bpti.eu/
-4. BSidesVilnius, https://rekvizitai.vz.lt/en/company/bsides_vilnius/, https://bsidesvilnius.lt/
+4. BSides Vilnius, https://rekvizitai.vz.lt/en/company/bsides_vilnius/, https://bsidesvilnius.lt/
 5. Code Academy, https://rekvizitai.vz.lt/en/company/programuok/, https://codeacademy.lt/programavimo-kursai/cyber-security/
 6. CyberGym, https://rekvizitai.vz.lt/en/company/terasky_baltic/, https://www.cybergym.com/ 
 7. Data Miner, https://rekvizitai.vz.lt/en/company/uab_data_miner/, http://www.dataminer.lt/
